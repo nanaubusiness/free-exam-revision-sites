@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-268 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+284 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -10,34 +10,38 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 - NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session)
 - NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable)
-- SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
+- NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 2 Earth and Space Science exam, Tue 1 Dec 2026 9:30am (NZQA timetable)
+- NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable)
+- SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 5 sites
 - UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 79 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 14 sites
 - US AP unit tests: November to early December 2026: 34 sites
-- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 26 sites
+- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 35 sites
 - IB Diploma: May 2027 session (the Nov 2026 session ends 13 Nov): 2 sites
 
 ## Contents
 
-- [NCEA (New Zealand)](#ncea-new-zealand) (26)
+- [NCEA (New Zealand)](#ncea-new-zealand) (30)
 - [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (134)
 - [A-level](#a-level) (21)
 - [AP (College Board)](#ap-college-board) (53)
-- [SAT](#sat) (5)
+- [SAT](#sat) (7)
 - [IB Diploma](#ib-diploma) (3)
-- [University (first year)](#university-first-year) (26)
+- [University (first year)](#university-first-year) (35)
+- [Other](#other) (1)
 
 ## NCEA (New Zealand)
 
@@ -68,6 +72,19 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Bonding, structure and energy changes](https://lessicon.com/s/141625fad35b?src=github&c=ncea-l2-bonding) | NCEA Level 2 Chemistry AS 91164 | NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable) |  |
 | [Organic compounds](https://lessicon.com/s/c76fcc2bc6a6?src=github&c=ncea-l2-organic) | NCEA Level 2 Chemistry AS 91165 | NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable) |  |
 | [Rates, equilibrium and acids](https://lessicon.com/s/7de6343c4cf9?src=github&c=ncea-l2-reactivity) | NCEA Level 2 Chemistry AS 91166 | NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable) |  |
+
+### NCEA Level 2 Earth and Space Science
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Extreme Earth events in New Zealand](https://lessicon.com/s/af6d5fc8e169?src=github&c=ncea-l2-extreme-earth-events) | NCEA Level 2 Earth and Space Science AS 91191 | NCEA Level 2 Earth and Space Science exam, Tue 1 Dec 2026 9:30am (NZQA timetable) |  |
+
+### NCEA Level 2 Economics
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Inflation](https://lessicon.com/s/d7c673735562?src=github&c=ncea-l2-inflation) | NCEA Level 2 Economics AS 91222 | NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable) |  |
+| [International trade](https://lessicon.com/s/05d329a81cca?src=github&c=ncea-l2-international-trade) | NCEA Level 2 Economics AS 91223 | NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable) |  |
 
 ### NCEA Level 2 Mathematics
 
@@ -106,6 +123,12 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Acids, bases and solubility equilibria](https://lessicon.com/s/7bae266ed595?src=github&c=ncea-l3-aqueous-equilibria) | NCEA Level 3 Chemistry AS 91392 | NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable) |  |
 | [Organic chemistry](https://lessicon.com/s/c6f0e2df4f44?src=github&c=ncea-l3-organic) | NCEA Level 3 Chemistry AS 91391 | NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable) |  |
 | [Particles and thermochemistry](https://lessicon.com/s/664ece8c946f?src=github&c=ncea-l3-thermochemistry) | NCEA Level 3 Chemistry AS 91390 | NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable) |  |
+
+### NCEA Level 3 Earth and Space Science
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [The ocean system](https://lessicon.com/s/f181c37f6a82?src=github&c=ncea-l3-ocean-system) | NCEA Level 3 Earth and Space Science AS 91413 | NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 3 Economics
 
@@ -492,6 +515,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Geometry and trigonometry](https://lessicon.com/s/a074527ecaa4?src=github&c=sat-geometry-trig) | Digital SAT Math: Geometry and Trigonometry | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
 | [Linear equations and systems](https://lessicon.com/library/sat-math/linear-equations-and-systems?src=github&c=sat-linear-equations) | SAT Math |  |  |
 | [Quadratics and nonlinear functions](https://lessicon.com/s/489323f4dda3?src=github&c=sat-quadratics) | Digital SAT Math: Advanced Math | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
 | [Ratios, rates and percents](https://lessicon.com/s/ef8c99b64ae5?src=github&c=sat-ratios-percentages) | SAT Math |  |  |
@@ -502,6 +526,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Boundaries and punctuation](https://lessicon.com/s/174cd295ad82?src=github&c=sat-punctuation) | Digital SAT Reading and Writing: Standard English Conventions | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
+| [Transitions and words in context](https://lessicon.com/s/f3daf875d95d?src=github&c=sat-transitions-words) | Digital SAT Reading and Writing: Words in Context, Transitions, Rhetorical Synthesis | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
 
 ## IB Diploma
 
@@ -533,13 +558,17 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [DNA replication](https://lessicon.com/s/f931b43cda9c?src=github&c=uni-bio-dna-replication) | University Introductory Biology exam / final | US college intro biology exams and finals, Nov 16–Dec 18 2026 |  |
+| [Enzyme kinetics and inhibition](https://lessicon.com/s/af349dae38ca?src=github&c=uni-bio-enzyme-kinetics) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
 | [Mendelian genetics and pedigrees](https://lessicon.com/s/69446290cdf6?src=github&c=uni-bio-mendelian-genetics) | University Introductory Biology exam / final | US college intro biology exams and finals, Nov 16–Dec 18 2026 |  |
+| [The electron transport chain](https://lessicon.com/s/8be35c476cec?src=github&c=uni-bio-etc) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
+| [The Krebs cycle](https://lessicon.com/s/ef19d009f661?src=github&c=uni-bio-krebs) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Calculus I
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [L'Hôpital's rule](https://lessicon.com/s/ee65a557c462?src=github&c=uni-calc-lhopital) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Linear approximation and Newton's method](https://lessicon.com/s/65c880018a4f?src=github&c=uni-calc-linear-approx) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Optimization problems](https://lessicon.com/s/3ecde42815b3?src=github&c=uni-calc-optimization) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Riemann sums and the definite integral](https://lessicon.com/s/8c724104b5d3?src=github&c=uni-calc-riemann-sums) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
 
@@ -559,12 +588,15 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Research methods in psychology](https://lessicon.com/s/ffb907c32be6?src=github&c=uni-psych-research-methods) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
 | [Social psychology: attribution, attitudes and groups](https://lessicon.com/s/7c399bb18d4b?src=github&c=uni-psych-social) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
+| [Synapses and drugs](https://lessicon.com/s/1b6a4178b415?src=github&c=uni-psych-synapses-drugs) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Microeconomics
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Perfect competition vs monopoly](https://lessicon.com/s/65b893755ad3?src=github&c=uni-micro-market-structures) | University Principles of Microeconomics midterm / final | US college Principles of Microeconomics exams and finals, Nov 16–Dec 18 2026 |  |
+| [Production and cost curves](https://lessicon.com/s/857614a3346e?src=github&c=uni-micro-cost-curves) | University Principles of Microeconomics midterm / final | US college Principles of Microeconomics exams and finals, Nov 16–Dec 18 2026 |  |
+| [Surplus, taxes and deadweight loss](https://lessicon.com/s/9b6333209f2f?src=github&c=uni-micro-taxes-surplus) | University Principles of Microeconomics midterm / final | US college Principles of Microeconomics exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Organic Chemistry
 
@@ -587,6 +619,8 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Fluids: pressure and buoyancy](https://lessicon.com/s/883f5e6754e9?src=github&c=uni-physics-fluids) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Friction and inclined planes](https://lessicon.com/s/01e1f0662d37?src=github&c=uni-physics-friction-inclines) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Momentum and collisions](https://lessicon.com/s/76053ebaf2dc?src=github&c=uni-physics-momentum) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Statistics
@@ -595,6 +629,14 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Confidence intervals](https://lessicon.com/s/758c5c8ff103?src=github&c=uni-stats-confidence-intervals) | University Introductory Statistics midterm / final | US college intro statistics exams and finals, Nov 16–Dec 18 2026 |  |
 | [The normal distribution and z-scores](https://lessicon.com/s/b45bf8c257d7?src=github&c=uni-stats-normal-z-scores) | University Introductory Statistics midterm / final | US college intro statistics exams and finals, Nov 16–Dec 18 2026 |  |
+
+## Other
+
+### ACT English
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Grammar and usage](https://lessicon.com/s/81cf5e20e304?src=github&c=act-english-conventions) | ACT English (enhanced ACT) | ACT national test date Sat 12 Dec 2026 (late registration to 29 Nov) |  |
 
 ## About
 
