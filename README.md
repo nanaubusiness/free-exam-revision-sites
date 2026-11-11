@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-212 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+237 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -8,32 +8,34 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 ## Exams coming up
 
-- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
+- NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
-- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 58 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 69 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 7 sites
-- US AP unit tests: November to early December 2026: 26 sites
-- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 16 sites
+- US AP unit tests: November to early December 2026: 31 sites
+- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 17 sites
 - IB Diploma: May 2027 session (the Nov 2026 session ends 13 Nov): 2 sites
 
 ## Contents
 
-- [NCEA (New Zealand)](#ncea-new-zealand) (16)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (113)
+- [NCEA (New Zealand)](#ncea-new-zealand) (24)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (124)
 - [A-level](#a-level) (14)
-- [AP (College Board)](#ap-college-board) (45)
+- [AP (College Board)](#ap-college-board) (50)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
-- [University (first year)](#university-first-year) (16)
+- [University (first year)](#university-first-year) (17)
 
 ## NCEA (New Zealand)
 
@@ -48,6 +50,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Gene expression](https://lessicon.com/s/8cb06349b871?src=github&c=ncea-l2-gene-expression) | NCEA Level 2 Biology AS 91159 | NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable) |  |
 | [Genetic variation and change](https://lessicon.com/s/4e51823559e3?src=github&c=ncea-l2-genetic-variation) | NCEA Level 2 Biology AS 91157 | NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable) |  |
 
 ### NCEA Level 2 Chemistry
@@ -69,6 +72,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Electricity and electromagnetism](https://lessicon.com/s/81bc521056db?src=github&c=ncea-l2-electricity) | NCEA Level 2 Physics AS 91173 | NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable) |  |
 | [Mechanics](https://lessicon.com/s/fee731488b18?src=github&c=ncea-l2-mechanics) | NCEA Level 2 Physics AS 91171 | NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 3 Biology
@@ -77,12 +81,15 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Evolution and speciation](https://lessicon.com/s/12f1745de279?src=github&c=ncea-l3-speciation) | NCEA Level 3 Biology AS 91605 | NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable) |  |
 | [Human evolution](https://lessicon.com/s/45701a8096e5?src=github&c=ncea-l3-human-evolution) | NCEA Level 3 Biology AS 91606 | NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable) |  |
+| [Plant and animal responses](https://lessicon.com/s/46dd3f741228?src=github&c=ncea-l3-plant-animal-responses) | NCEA Level 3 Biology AS 91603 | NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 3 Calculus
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Complex numbers](https://lessicon.com/s/eeadcfd39527?src=github&c=ncea-l3-complex-numbers) | NCEA Level 3 Calculus AS 91577 | NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable) |  |
 | [Differentiation methods](https://lessicon.com/s/36cb96a6e497?src=github&c=ncea-l3-differentiation) | NCEA Level 3 Calculus AS 91578 | NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable) |  |
+| [Integration methods](https://lessicon.com/s/b27cf2682d60?src=github&c=ncea-l3-integration) | NCEA Level 3 Calculus AS 91579 | NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable) |  |
 
 ### NCEA Level 3 Chemistry
 
@@ -92,10 +99,23 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Organic chemistry](https://lessicon.com/s/c6f0e2df4f44?src=github&c=ncea-l3-organic) | NCEA Level 3 Chemistry AS 91391 | NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable) |  |
 | [Particles and thermochemistry](https://lessicon.com/s/664ece8c946f?src=github&c=ncea-l3-thermochemistry) | NCEA Level 3 Chemistry AS 91390 | NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable) |  |
 
+### NCEA Level 3 Economics
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Efficiency of market equilibrium](https://lessicon.com/s/f45d151ffed0?src=github&c=ncea-l3-market-efficiency) | NCEA Level 3 Economics AS 91399 | NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable) |  |
+
+### NCEA Level 3 English
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Written text essay](https://lessicon.com/s/0f0c9602522e?src=github&c=yt-studytimenz-l3-written-text) | NCEA Level 3 English AS 91472 (3.1) Respond critically to specified aspect(s) of studied written text(s) | NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session) | [Written Text / NCEA Level 3 English Strategy Video / StudyTime NZ](https://www.youtube.com/watch?v=oJTI8Ol8MJs) by studytimenz |
+
 ### NCEA Level 3 Statistics
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Probability concepts](https://lessicon.com/s/e7ed20dc4696?src=github&c=ncea-l3-probability-concepts) | NCEA Level 3 Statistics AS 91585 | NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable) |  |
 | [Probability distributions](https://lessicon.com/s/2a6131dcfde7?src=github&c=ncea-l3-probability-distribution) | NCEA Level 3 Statistics AS 91586 | NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable) |  |
 
 ## GCSE (AQA, Edexcel, OCR)
@@ -108,6 +128,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Cell structure and microscopy](https://lessicon.com/library/gcse-biology/cell-structure-and-microscopy?src=github&c=gcse-cell-structure) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Communicable disease and the immune system](https://lessicon.com/library/gcse-biology/communicable-disease-and-the-immune-system?src=github&c=gcse-immune-system-disease) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Diffusion, osmosis and active transport](https://lessicon.com/library/gcse-biology/diffusion-osmosis-and-active-transport?src=github&c=gcse-diffusion-osmosis-active-tr) | GCSE (AQA/Edexcel/OCR) |  |  |
+| [DNA and genetic engineering](https://lessicon.com/s/95a88320f5cf?src=github&c=gcse-dna-genetic-engineering) | GCSE Biology Paper 2 (AQA 8461 Inheritance, variation and evolution) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Ecosystems](https://lessicon.com/s/dcfed3b52317?src=github&c=gcse-ecosystems) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Enzymes](https://lessicon.com/library/gcse-biology/enzymes?src=github&c=gcse-enzymes) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Homeostasis and blood glucose control](https://lessicon.com/library/gcse-biology/homeostasis-and-blood-glucose-control?src=github&c=gcse-homeostasis-blood-glucose) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -115,6 +136,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Inheritance and genetic crosses](https://lessicon.com/library/gcse-biology/inheritance-and-genetic-crosses?src=github&c=gcse-inheritance-genetic-crosses) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Natural selection and evolution](https://lessicon.com/library/gcse-biology/natural-selection-and-evolution?src=github&c=gcse-natural-selection-evolution) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Photosynthesis](https://lessicon.com/library/gcse-biology/photosynthesis?src=github&c=gcse-photosynthesis) | GCSE (AQA/Edexcel/OCR) |  |  |
+| [Plant tissues, transpiration and translocation](https://lessicon.com/s/004866fc415f?src=github&c=gcse-plant-tissues-transpiration) | GCSE Biology Paper 1 (AQA 8461 Organisation: plant tissues and transport) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Respiration](https://lessicon.com/s/a7cd40c62ea4?src=github&c=gcse-respiration) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [The carbon cycle](https://lessicon.com/library/gcse-biology/the-carbon-cycle?src=github&c=gcse-carbon-cycle) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [The heart and circulatory system](https://lessicon.com/library/gcse-biology/the-heart-and-circulatory-system?src=github&c=gcse-heart-circulation) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -143,6 +165,8 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Paper 1 Question 2: language analysis](https://lessicon.com/s/e7fa5cd37958?src=github&c=yt-mrbruff-lang-paper1-q2) | AQA GCSE English Language Paper 1 (8700/1), Question 2 | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [AQA English Language Paper 1 Question 2 (2026 Onwards)](https://www.youtube.com/watch?v=L_dE68iUg-k) by Mr Bruff |
+| [Paper 1 Question 3: structure](https://lessicon.com/s/20f3b2ebe687?src=github&c=yt-mrbruff-lang-paper1-q3) | AQA GCSE English Language Paper 1 (8700/1), Question 3 | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [AQA English Language 2026: Paper 1 Question 3](https://www.youtube.com/watch?v=VNVB5InFrHQ) by Mr Bruff |
+| [Paper 1 Question 4: evaluation](https://lessicon.com/s/a5684a7b0735?src=github&c=yt-mrbruff-lang-paper1-q4) | AQA GCSE English Language Paper 1 (8700/1), Question 4 | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [2026 AQA English Language Paper 1 Question 4: Your Guide](https://www.youtube.com/watch?v=y22Ciur-Ryo) by Mr Bruff |
 
 ### GCSE English Literature
 
@@ -156,22 +180,27 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Exposure by Wilfred Owen: poem analysis](https://lessicon.com/s/dd3b3de886b4?src=github&c=gcse-exposure-owen) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Extract from The Prelude: poem analysis](https://lessicon.com/s/d84fd0bdea57?src=github&c=gcse-prelude-extract) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Gerald Croft: character and key quotes](https://lessicon.com/s/82146f633ff3?src=github&c=gcse-gerald-croft) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [Inspector Goole: character and key quotes](https://lessicon.com/s/1c095573d0b5?src=github&c=gcse-inspector-goole) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Jekyll and Hyde: chapter-by-chapter summary](https://lessicon.com/s/66a6d1b13131?src=github&c=gcse-jekyll-hyde-chapters) | AQA GCSE English Literature Paper 1 (Section B: 19th-century novel) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Jekyll and Hyde: characters and key quotes](https://lessicon.com/s/49cab018489a?src=github&c=gcse-jekyll-hyde-characters) | AQA GCSE English Literature Paper 1 (Section B: 19th-century novel) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Lady Macbeth: character and key quotes](https://lessicon.com/s/5583769503ba?src=github&c=gcse-lady-macbeth) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [London by William Blake: poem analysis](https://lessicon.com/s/cf0e754b83f6?src=github&c=gcse-london-blake) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Macbeth Act 1: scene-by-scene summary](https://lessicon.com/s/2358381ad639?src=github&c=gcse-macbeth-act-1) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [Macbeth Act 2: scene-by-scene summary](https://lessicon.com/s/b42c33124b84?src=github&c=gcse-macbeth-act-2) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Macbeth: character and key quotes](https://lessicon.com/s/30da2fad7260?src=github&c=gcse-macbeth-character) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Macbeth: themes and quotations](https://lessicon.com/s/67ef2c1ad38d?src=github&c=macbeth-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
 | [Macduff and Banquo: characters and key quotes](https://lessicon.com/s/bb93d984e556?src=github&c=gcse-macduff-banquo) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Mr Birling: character and key quotes](https://lessicon.com/s/b6fda63d88eb?src=github&c=gcse-mr-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Mrs Birling: character and key quotes](https://lessicon.com/s/d2148a0edfd7?src=github&c=gcse-mrs-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [My Last Duchess: poem analysis](https://lessicon.com/s/1db1da93570d?src=github&c=gcse-my-last-duchess) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Ozymandias poem analysis](https://lessicon.com/s/5ad7021601cd?src=github&c=gcse-ozymandias) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [Reality of war: comparing poems](https://lessicon.com/s/932a8ed41c5f?src=github&c=gcse-pc-war-compare) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Remains by Simon Armitage: poem analysis](https://lessicon.com/s/c2c3c98964e1?src=github&c=gcse-remains) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Romeo and Juliet: themes, characters and quotations](https://lessicon.com/library/gcse-english-literature/romeo-and-juliet-themes-characters-and-quotations?src=github&c=romeo-and-juliet-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
 | [Romeo: character and key quotes](https://lessicon.com/s/304a61274c82?src=github&c=gcse-romeo-character) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Scrooge: character and key quotes](https://lessicon.com/s/73db4178f1c8?src=github&c=gcse-scrooge-character) | AQA GCSE English Literature Paper 1 (Section B: 19th-century novel) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Sheila Birling: character and key quotes](https://lessicon.com/s/39ff10f9a36c?src=github&c=gcse-sheila-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [Storm on the Island: poem analysis](https://lessicon.com/s/c8c6755ff089?src=github&c=gcse-storm-on-the-island) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [The Charge of the Light Brigade: poem analysis](https://lessicon.com/s/f4c699fc776f?src=github&c=gcse-charge-light-brigade) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [The Strange Case of Dr Jekyll and Mr Hyde: themes and quotations](https://lessicon.com/library/gcse-english-literature/the-strange-case-of-dr-jekyll-and-mr-hyde-themes?src=github&c=jekyll-and-hyde-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
 
@@ -182,6 +211,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Climate change](https://lessicon.com/s/f86a0be99624?src=github&c=gcse-climate-change) | AQA GCSE Geography Paper 1 (The challenge of natural hazards: climate change) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Coasts: processes and landforms](https://lessicon.com/library/gcse-geography/coasts-processes-and-landforms?src=github&c=gcse-coasts) | GCSE Geography (AQA/Edexcel/OCR) |  |  |
 | [Cold environments](https://lessicon.com/s/d1d509b4e9e1?src=github&c=gcse-cold-environments) | AQA GCSE Geography Paper 1 (The living world: cold environments) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
+| [Glacial landscapes in the UK](https://lessicon.com/s/7852dbf91dbb?src=github&c=gcse-glacial-landscapes) | AQA GCSE Geography Paper 1 (Physical landscapes in the UK: glacial landscapes) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Plate tectonics and tectonic hazards](https://lessicon.com/library/gcse-geography/plate-tectonics-and-tectonic-hazards?src=github&c=gcse-plate-tectonics) | GCSE Geography (AQA/Edexcel/OCR) |  |  |
 | [Resource management in the UK](https://lessicon.com/s/e05ac87ef34d?src=github&c=gcse-resource-management) | AQA GCSE Geography Paper 2 (The challenge of resource management) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Rivers: processes and landforms](https://lessicon.com/library/gcse-geography/rivers-processes-and-landforms?src=github&c=gcse-rivers) | GCSE Geography (AQA/Edexcel/OCR) |  |  |
@@ -219,6 +249,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Bearings](https://lessicon.com/s/3d8a3ee32858?src=github&c=yt-cognito-bearings) | GCSE Maths (bearings: both tiers; with trigonometry: Higher) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Maths - What are Bearings? (2026/27 exams)](https://www.youtube.com/watch?v=pm8i-thxvCo) by Cognito |
 | [Circle theorems](https://lessicon.com/s/ce7936280193?src=github&c=yt-corbettmaths-circle-theorems) | GCSE Maths Higher tier (geometry: circle theorems) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [Circle Theorems - Corbettmaths](https://www.youtube.com/watch?v=vgMSLsos7Ew) by corbettmaths |
 | [Expanding and factorising](https://lessicon.com/s/376e34b9b5a0?src=github&c=gcse-expanding-factorising) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) algebra | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Indices and surds](https://lessicon.com/s/bce8b16194cd?src=github&c=gcse-indices-surds) | GCSE Maths Higher (AQA 8300, Edexcel 1MA1, OCR J560) number | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
@@ -320,6 +351,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Derivative rules](https://lessicon.com/library/ap-calculus-ab/derivative-rules?src=github&c=ap-calc-derivative-rules) | AP Calculus AB |  |  |
 | [Integrals and the FTC](https://lessicon.com/s/d3a90bdbc8bd?src=github&c=ap-calc-integrals-ftc) | AP Calculus AB |  |  |
 | [Limits and continuity](https://lessicon.com/s/6275477332ea?src=github&c=ap-calc-limits-continuity) | AP Calculus AB |  |  |
+| [Mean value theorem and curve sketching](https://lessicon.com/s/b71667c09e5b?src=github&c=ap-calc-mvt-curve-sketching) | AP Calculus AB Unit 5 test (Analytical Applications of Differentiation) | US AP Calculus AB Unit 5 tests, late Nov to Dec 2026 |  |
 | [Related rates](https://lessicon.com/s/7a11f1aedf58?src=github&c=ap-calc-related-rates) | AP Calculus AB Unit 4 test (Contextual Applications of Differentiation) | US AP Calculus AB Unit 4 tests, mid Nov to early Dec 2026 |  |
 | [U-substitution](https://lessicon.com/s/bbeefc492a3f?src=github&c=yt-khan-u-substitution) | AP Calculus AB/BC Unit 6 (6.9 integrating using substitution); college Calculus I finals | AP Calculus Unit 6 tests Dec 2026; college Calculus I finals Dec 2026 | [_-substitution intro / AP Calculus AB / Khan Academy](https://www.youtube.com/watch?v=b76wePnIBdU) by Khan Academy |
 
@@ -331,6 +363,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Gas laws](https://lessicon.com/library/ap-chemistry/gas-laws?src=github&c=ap-chem-gas-laws) | AP Chemistry |  |  |
 | [Intermolecular forces](https://lessicon.com/s/623873111b33?src=github&c=ap-chem-intermolecular-forces) | AP Chemistry |  |  |
 | [Kinetics](https://lessicon.com/s/989e0063baac?src=github&c=ap-chem-kinetics) | AP Chemistry Unit 5 test (Kinetics) | US AP Chemistry Unit 5 tests, Nov to early Dec 2026 |  |
+| [Thermochemistry](https://lessicon.com/s/91e809aa9e34?src=github&c=ap-chem-thermochemistry) | AP Chemistry Unit 6 test (Thermochemistry) | US AP Chemistry Unit 6 tests, late Nov to Dec 2026 |  |
 
 ### AP European History
 
@@ -380,12 +413,14 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Memory](https://lessicon.com/s/ed1a1626862a?src=github&c=ap-psych-memory) | AP Psychology Unit 2 test (Cognition: memory) | US AP Psychology Unit 2 (Cognition) tests, Nov 2026 |  |
 | [Parts of the brain](https://lessicon.com/s/2174355ec4d5?src=github&c=ap-psych-brain-structures) | AP Psychology |  |  |
 | [Sensation and perception](https://lessicon.com/s/6624f68cf74f?src=github&c=yt-crashcourse-sensation-percept) | AP Psychology unit tests (Biological Bases / Cognition: sensation and perception) | US AP Psychology unit tests, Nov–Dec 2026 | [Sensation and Perception: Crash Course Psychology #5](https://www.youtube.com/watch?v=unWnZvXJH2o) by CrashCourse |
+| [Thinking and problem solving](https://lessicon.com/s/8a37319919ce?src=github&c=yt-crashcourse-cognition) | AP Psychology Unit 2 (Cognition): thinking, problem solving, judgments and decisions | US AP Psychology Unit 2 tests and fall finals, Nov–Dec 2026 | [Cognition - How Your Mind Can Amaze and Betray You: Crash Course Psychology #15](https://www.youtube.com/watch?v=R-sVnmmw6WY) by CrashCourse |
 
 ### AP Statistics
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Hypothesis testing and p-values](https://lessicon.com/s/4a58b8730acc?src=github&c=intro-stats-hypothesis-testing) | AP Statistics |  |  |
+| [Sampling distributions](https://lessicon.com/s/83afc03a101f?src=github&c=ap-stats-sampling-distributions) | AP Statistics Unit 5 test (Sampling Distributions) | US AP Statistics Unit 5 tests, Dec 2026 (taught from mid Nov) |  |
 
 ### AP US Government and Politics
 
@@ -410,6 +445,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Land-based empires, 1450-1750](https://lessicon.com/s/987b783832ce?src=github&c=ap-world-land-based-empires) | AP World History Unit 3 test (Land-Based Empires, 1450-1750) | US AP World Unit 3 tests, Nov 2026 |  |
 | [The Columbian Exchange](https://lessicon.com/library/ap-world-history/the-columbian-exchange?src=github&c=ap-world-columbian-exchange) | AP World History |  |  |
 | [The Industrial Revolution, c. 1750-1900](https://lessicon.com/library/ap-world-history/the-industrial-revolution-c-1750-1900?src=github&c=ap-world-industrial-revolution) | AP World History |  |  |
+| [Transoceanic interconnections, 1450-1750](https://lessicon.com/s/ff225db17d08?src=github&c=ap-world-transoceanic) | AP World History Unit 4 test (Transoceanic Interconnections) | US AP World Unit 4 tests, Dec 2026 (taught from late Nov) |  |
 
 ## SAT
 
@@ -472,6 +508,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Hybrid orbitals and bonding theories](https://lessicon.com/s/f89375bd2a4c?src=github&c=yt-profdave-hybridization) | University General Chemistry I exams and finals (bonding theories) | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 | [Valence Bond Theory, Hybrid Orbitals, and Molecular Orbital Theory](https://www.youtube.com/watch?v=nTujP4jCbsg) by Professor Dave Explains |
 | [Quantum numbers and electron configuration](https://lessicon.com/s/fdebb54f4d73?src=github&c=uni-genchem-electron-config) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Stoichiometry and limiting reagents](https://lessicon.com/s/db26c0b9cd7f?src=github&c=uni-genchem-stoichiometry) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 | [VSEPR theory and molecular shapes](https://lessicon.com/s/2badeea935a5?src=github&c=uni-genchem-vsepr) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Intro Psychology
