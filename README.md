@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-188 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+193 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -8,28 +8,28 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 ## Exams coming up
 
-- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 48 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 50 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 7 sites
-- US AP unit tests: November to early December 2026: 18 sites
-- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 13 sites
+- US AP unit tests: November to early December 2026: 22 sites
+- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 14 sites
 - IB Diploma: May 2027 session (the Nov 2026 session ends 13 Nov): 2 sites
 
 ## Contents
 
 - [NCEA (New Zealand)](#ncea-new-zealand) (11)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (103)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (105)
 - [A-level](#a-level) (14)
-- [AP (College Board)](#ap-college-board) (38)
+- [AP (College Board)](#ap-college-board) (41)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
 - [University (first year)](#university-first-year) (14)
@@ -128,6 +128,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Moles and quantitative chemistry](https://lessicon.com/library/gcse-chemistry/moles-and-quantitative-chemistry?src=github&c=gcse-moles) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Rates of reaction](https://lessicon.com/library/gcse-chemistry/rates-of-reaction?src=github&c=gcse-rates-of-reaction) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Reactions of acids and neutralisation](https://lessicon.com/s/5dd961c5f3cc?src=github&c=yt-cognito-neutralisation) | GCSE Chemistry Paper 1 (chemical changes: acids, salts, neutralisation) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Chemistry - Neutralisation Reactions / Reactions of Acids (2027/28 exams)](https://www.youtube.com/watch?v=vcxlISVJ6Os) by Cognito |
+| [Strong and weak acids](https://lessicon.com/s/1b91b1e8b035?src=github&c=yt-freesciencelessons-strong-wea) | GCSE Chemistry Paper 1 (chemical changes: strong and weak acids, Higher) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Chemistry Revision "Strong and Weak Acids"](https://www.youtube.com/watch?v=4pIHhXfGZlE) by Freesciencelessons |
 | [The periodic table: groups 1, 7 and 0](https://lessicon.com/library/gcse-chemistry/the-periodic-table-groups-1-7-and-0?src=github&c=gcse-periodic-table) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [The reactivity series](https://lessicon.com/s/b00d552ce058?src=github&c=gcse-reactivity-series) | GCSE (AQA/Edexcel/OCR) |  |  |
 
@@ -195,6 +196,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Nazi control of Germany, 1933-1939](https://lessicon.com/s/212752c8f420?src=github&c=gcse-nazi-control) | AQA GCSE History Paper 1 (Germany 1890-1945) / Edexcel Paper 3 (Weimar and Nazi Germany) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Origins of the Cold War, 1945-1949](https://lessicon.com/s/1e52c5ff8cf7?src=github&c=cold-war-origins) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Stalin's Russia, 1924-1941](https://lessicon.com/s/58d31e61202e?src=github&c=gcse-stalin-russia) | AQA GCSE History Paper 1 (Russia, 1894-1945: Tsardom and communism) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
+| [The end of the Cold War, 1970-1991](https://lessicon.com/s/06127f2c868c?src=github&c=gcse-cold-war-end) | Edexcel GCSE History Paper 2 (Superpower relations and the Cold War, 1941-91: key topic 3) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [The First World War, 1914-1918: the fighting](https://lessicon.com/s/0e5799c197b3?src=github&c=gcse-ww1-fighting) | AQA GCSE History Paper 1 (Conflict and Tension, 1894-1918) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [The League of Nations, 1920-1936](https://lessicon.com/s/58d5d8e29a14?src=github&c=gcse-league-of-nations) | AQA GCSE History Paper 1 (Conflict and Tension, 1918-1939) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [The Russian Revolutions of 1917](https://lessicon.com/library/gcse-history/the-russian-revolutions-of-1917?src=github&c=russian-revolution) | GCSE / A-level |  |  |
@@ -304,6 +306,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Integrals and the FTC](https://lessicon.com/s/d3a90bdbc8bd?src=github&c=ap-calc-integrals-ftc) | AP Calculus AB |  |  |
 | [Limits and continuity](https://lessicon.com/s/6275477332ea?src=github&c=ap-calc-limits-continuity) | AP Calculus AB |  |  |
 | [Related rates](https://lessicon.com/s/7a11f1aedf58?src=github&c=ap-calc-related-rates) | AP Calculus AB Unit 4 test (Contextual Applications of Differentiation) | US AP Calculus AB Unit 4 tests, mid Nov to early Dec 2026 |  |
+| [U-substitution](https://lessicon.com/s/bbeefc492a3f?src=github&c=yt-khan-u-substitution) | AP Calculus AB/BC Unit 6 (6.9 integrating using substitution); college Calculus I finals | AP Calculus Unit 6 tests Dec 2026; college Calculus I finals Dec 2026 | [_-substitution intro / AP Calculus AB / Khan Academy](https://www.youtube.com/watch?v=b76wePnIBdU) by Khan Academy |
 
 ### AP Chemistry
 
@@ -318,6 +321,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Europe's wars of religion](https://lessicon.com/s/56207a4d159d?src=github&c=yt-heimler-wars-of-religion) | AP European History Unit 2 (Age of Reformation) test | US AP European History Unit 2 tests, Nov 2026 | [Europe's WARS of RELIGION [AP Euro Review—Unit 2 Topic 4]](https://www.youtube.com/watch?v=tvcBVri-TAQ) by Heimler's History |
 | [The Catholic Reformation](https://lessicon.com/s/0b42376ec9ec?src=github&c=yt-heimler-counter-reformation) | AP European History Unit 2 (Age of Reformation) test | US AP European History Unit 2 tests, Nov 2026 | [The Catholic (Counter) Reformation, Explained [AP Euro—Unit 2 Topic 5]](https://www.youtube.com/watch?v=MHDAZRPydRY) by Heimler's History |
 | [The Protestant Reformation](https://lessicon.com/s/210650a6d59f?src=github&c=yt-heimler-protestant-reformatio) | AP European History Unit 2 (Age of Reformation) test | US AP European History Unit 2 tests, Nov 2026 | [The Protestant REFORMATION, Explained [AP Euro Review: Unit 2 Topic 2 (2.2)]](https://www.youtube.com/watch?v=5yLHpRDCUlw) by Heimler's History |
 
@@ -339,8 +343,9 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Forces and Newton's laws](https://lessicon.com/s/616c21853c6d?src=github&c=ap-physics-1-newtons-laws) | AP Physics 1 |  |  |
+| [Forces and Newton's laws](https://lessicon.com/s/616c21853c6d?src=github&c=ap-physics-1-newtons-laws) | AP Physics 1 Unit 2 test (Force and Translational Dynamics) | US AP Physics 1 Unit 2 tests, Nov 2026 |  |
 | [Kinematics](https://lessicon.com/s/31af1192eade?src=github&c=ap-physics-1-kinematics) | AP Physics 1 |  |  |
+| [Momentum and impulse](https://lessicon.com/s/8b325eb0ec71?src=github&c=ap-physics-1-momentum) | AP Physics 1 Unit 4 test (Linear Momentum) | US AP Physics 1 momentum unit tests, late Nov to Dec 2026 |  |
 | [Work, energy and power](https://lessicon.com/s/9b30d85a01e2?src=github&c=yt-orgchemtutor-work-energy-powe) | AP Physics 1 Unit 3 (Work, Energy, and Power) test | US AP Physics 1 Unit 3 tests, Nov–Dec 2026 | [Work, Energy, and Power - Basic Introduction](https://www.youtube.com/watch?v=_MR1Dp8-F8w) by The Organic Chemistry Tutor |
 
 ### AP Precalculus
@@ -348,7 +353,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Exponential and logarithmic functions](https://lessicon.com/s/4e1f99c642cb?src=github&c=ap-precalc-exponential-log) | AP Precalculus Unit 2 test (Exponential and Logarithmic Functions) | US AP Precalculus Unit 2 tests, Nov to Dec 2026 |  |
-| [Polynomial and rational functions](https://lessicon.com/s/855bf33da04d?src=github&c=ap-precalc-polynomial-rational) | AP Precalculus |  |  |
+| [Polynomial and rational functions](https://lessicon.com/s/855bf33da04d?src=github&c=ap-precalc-polynomial-rational) | AP Precalculus Unit 1 test (Polynomial and Rational Functions) | US AP Precalculus Unit 1 tests and semester reviews, Nov to Dec 2026 |  |
 
 ### AP Psychology
 
@@ -454,7 +459,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Research methods in psychology](https://lessicon.com/s/ffb907c32be6?src=github&c=uni-psych-research-methods) | University (Intro Psychology) |  |  |
+| [Research methods in psychology](https://lessicon.com/s/ffb907c32be6?src=github&c=uni-psych-research-methods) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Microeconomics
 
