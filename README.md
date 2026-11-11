@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-284 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+315 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -10,21 +10,21 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 - NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session)
 - NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 2 Earth and Space Science exam, Tue 1 Dec 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Earth and Space Science exam, Tue 1 Dec 2026 9:30am (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 5 sites
 - UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 79 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 14 sites
@@ -41,7 +41,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 - [SAT](#sat) (7)
 - [IB Diploma](#ib-diploma) (3)
 - [University (first year)](#university-first-year) (35)
-- [Other](#other) (1)
+- [Other](#other) (32)
 
 ## NCEA (New Zealand)
 
@@ -637,6 +637,92 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Grammar and usage](https://lessicon.com/library/act-english/grammar-and-usage?src=github&c=act-english-conventions) | ACT English (enhanced ACT) | ACT national test date Sat 12 Dec 2026 (late registration to 29 Nov) |  |
+
+### CAT
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [DILR: set types and how to attack each one](https://lessicon.com/s/4a2773a8db1c?src=github&c=cat-dilr) | CAT 2026 Data Interpretation and Logical Reasoning (exam Sunday 29 November 2026) |  |  |
+| [Quant: Algebra, Geometry and Number System](https://lessicon.com/s/136fc7bfb23c?src=github&c=cat-algebra-geometry-numbers) | CAT 2026 Quantitative Aptitude (exam Sunday 29 November 2026) |  |  |
+| [Quant: Arithmetic](https://lessicon.com/s/ae59957efd61?src=github&c=cat-arithmetic) | CAT 2026 Quantitative Aptitude (exam Sunday 29 November 2026) |  |  |
+
+### CLAT
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Current Affairs 2026](https://lessicon.com/s/539f58942aed?src=github&c=notes-ca) | CLAT 2027 (Sunday 6 December 2026): Current Affairs and General Knowledge |  |  |
+| [Legal Reasoning](https://lessicon.com/s/a0408b5afd3c?src=github&c=notes-legal) | CLAT 2027 (Sunday 6 December 2026): Legal Reasoning |  |  |
+| [Logical Reasoning and Quantitative Techniques](https://lessicon.com/s/a257d0fab36b?src=github&c=clat) | CLAT 2027 (Sunday 6 December 2026): Logical Reasoning and Quantitative Techniques |  |  |
+
+### ENEM
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Biologia](https://lessicon.com/s/15bc57a7a467?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
+| [Física](https://lessicon.com/s/7b15266985d4?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
+| [Matemática](https://lessicon.com/s/cb6a2dcbb2a6?src=github&c=enem) | ENEM 2026, 2º dia: Matemática e suas Tecnologias |  |  |
+| [Química](https://lessicon.com/s/d273748ee75e?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
+
+### PAES
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Ciencias](https://lessicon.com/s/e9dd34c70b9c?src=github&c=paes) | PAES Regular Admisión 2027: Ciencias |  |  |
+| [Competencia Matemática M1](https://lessicon.com/s/40d313bbf0d5?src=github&c=paes) | PAES Regular Admisión 2027: Competencia Matemática 1 (M1) |  |  |
+| [Historia y Ciencias Sociales](https://lessicon.com/s/935c1f3e4e41?src=github&c=paes) | PAES Regular Admisión 2027: Historia y Ciencias Sociales |  |  |
+
+### SPM
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Biologi](https://lessicon.com/s/5ac620ed7583?src=github&c=biologi) | SPM 2026 Biologi |  |  |
+| [Matematik](https://lessicon.com/s/8b64d4013faa?src=github&c=matematik) | SPM 2026 Matematik (1449) |  |  |
+| [Sejarah](https://lessicon.com/s/3eae9107579a?src=github&c=spm) | SPM 2026 Sejarah (1249) |  |  |
+
+### Vestibular Fuvest e Unicamp
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Fuvest 2ª fase: respostas discursivas e redação](https://lessicon.com/s/62baa61e9f76?src=github&c=notes-fuvest-2fase) | Fuvest 2027, 2ª fase (6 e 7 de dezembro de 2026) |  |  |
+| [Obras obrigatórias Fuvest e Unicamp 2027](https://lessicon.com/s/4745cd3759e1?src=github&c=notes-obras) | Listas de leituras obrigatórias Fuvest 2027 e Unicamp 2027 |  |  |
+| [Redação Unicamp 2027](https://lessicon.com/s/a67fd284bafa?src=github&c=notes-redacao-unicamp) | Unicamp 2027, 2ª fase: redação (29 de novembro de 2026) |  |  |
+
+### פסיכומטרי
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [חשיבה כמותית](https://lessicon.com/s/67380958d23d?src=github&c=psycho) | המבחן הפסיכומטרי, מועד דצמבר 2026 |  |  |
+
+### البسيخومتري
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [التفكير الكلامي ومهمة التعبير الكتابي](https://lessicon.com/s/cda9713f466c?src=github&c=ar-verbal) | امتحان البسيخومتري، موعد كانون الأول/ديسمبر 2026 |  |  |
+| [التفكير الكمّي](https://lessicon.com/s/8e86029bd4c8?src=github&c=ar-quant) | امتحان البسيخومتري، موعد كانون الأول/ديسمبر 2026 |  |  |
+
+### बिहार बोर्ड कक्षा 12
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [गणित](https://lessicon.com/s/ddd223cb8510?src=github&c=bihar) | बिहार बोर्ड (BSEB) इंटर सेंट-अप परीक्षा 2026: गणित |  |  |
+| [भौतिकी](https://lessicon.com/s/b1e392430691?src=github&c=bihar) | बिहार बोर्ड (BSEB) इंटर सेंट-अप परीक्षा 2026: भौतिकी |  |  |
+| [रसायन विज्ञान](https://lessicon.com/s/eb42b89a2321?src=github&c=chemistry) | बिहार बोर्ड (BSEB) इंटर सेंट-अप परीक्षा 2026: रसायन विज्ञान |  |  |
+
+### 수능
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [사회·문화](https://lessicon.com/s/31cd28d28d30?src=github&c=suneung) | 2027학년도 대학수학능력시험 사회탐구 영역: 사회·문화 |  |  |
+| [생활과 윤리](https://lessicon.com/s/023f4ca17b4f?src=github&c=suneung) | 2027학년도 대학수학능력시험 사회탐구 영역: 생활과 윤리 |  |  |
+| [한국사](https://lessicon.com/s/ab601e4e3b43?src=github&c=suneung) | 2027학년도 대학수학능력시험 한국사 영역 |  |  |
+
+### 수시 논술·면접
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [수리 논술](https://lessicon.com/s/64420412b95e?src=github&c=suri) | 2027학년도 수시 대학별 수리 논술 |  |  |
+| [인문 논술](https://lessicon.com/s/03e639374b08?src=github&c=inmun) | 2027학년도 수시 대학별 인문 논술 |  |  |
+| [학생부 기반 면접](https://lessicon.com/s/c0d6b3ef4263?src=github&c=myeonjeop5) | 2027학년도 수시 학생부 기반 면접 |  |  |
 
 ## About
 
