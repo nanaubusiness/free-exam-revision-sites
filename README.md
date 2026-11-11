@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-193 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+199 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -13,26 +13,27 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
 - NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 50 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 53 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 7 sites
-- US AP unit tests: November to early December 2026: 22 sites
-- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 14 sites
+- US AP unit tests: November to early December 2026: 23 sites
+- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 15 sites
 - IB Diploma: May 2027 session (the Nov 2026 session ends 13 Nov): 2 sites
 
 ## Contents
 
-- [NCEA (New Zealand)](#ncea-new-zealand) (11)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (105)
+- [NCEA (New Zealand)](#ncea-new-zealand) (12)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (108)
 - [A-level](#a-level) (14)
-- [AP (College Board)](#ap-college-board) (41)
+- [AP (College Board)](#ap-college-board) (42)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
-- [University (first year)](#university-first-year) (14)
+- [University (first year)](#university-first-year) (15)
 
 ## NCEA (New Zealand)
 
@@ -60,6 +61,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Calculus methods](https://lessicon.com/s/7ceec045ff48?src=github&c=ncea-l2-calculus) | NCEA Level 2 Mathematics and Statistics AS 91262 | NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable) |  |
+| [Probability methods](https://lessicon.com/s/5bcc4b202f1c?src=github&c=yt-studytimenz-l2-probability) | NCEA Level 2 Mathematics and Statistics AS 91267 (2.12) Apply probability methods | NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable) | [Probability / NCEA Level 2 Maths Strategy Video / StudyTime NZ](https://www.youtube.com/watch?v=e6LDIjBhgM8) by studytimenz |
 
 ### NCEA Level 2 Physics
 
@@ -215,9 +217,11 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Probability](https://lessicon.com/library/gcse-maths/probability?src=github&c=gcse-probability) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Pythagoras' theorem](https://lessicon.com/s/f6bfa5e92bd9?src=github&c=gcse-pythagoras) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Quadratic equations](https://lessicon.com/library/gcse-maths/quadratic-equations?src=github&c=gcse-quadratic-equations) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
+| [Ratio and proportion](https://lessicon.com/s/7b845e9622fe?src=github&c=gcse-ratio-proportion) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) ratio and proportion | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Simultaneous equations](https://lessicon.com/s/93fb71d3ef76?src=github&c=gcse-simultaneous-equations) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Straight-line graphs: y = mx + c](https://lessicon.com/s/45df865f04a5?src=github&c=gcse-straight-line-graphs) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) graphs | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Trigonometry: SOHCAHTOA](https://lessicon.com/library/gcse-maths/trigonometry-sohcahtoa?src=github&c=gcse-trigonometry-sohcahtoa) | GCSE (AQA/Edexcel/OCR) |  |  |
+| [Vectors](https://lessicon.com/s/e394c33e3bd3?src=github&c=gcse-vectors) | GCSE Maths Higher (AQA 8300, Edexcel 1MA1, OCR J560) vectors | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 
 ### GCSE Physics
 
@@ -242,6 +246,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Christian beliefs and teachings](https://lessicon.com/s/3897464b937d?src=github&c=gcse-christian-beliefs) | AQA GCSE Religious Studies A, Paper 1 (Christianity: beliefs and teachings) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Christian practices](https://lessicon.com/s/041f718f2ae9?src=github&c=gcse-christian-practices) | AQA GCSE Religious Studies A, Paper 1 (Christianity: practices) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Islam: key beliefs](https://lessicon.com/s/0bbcb5db95a1?src=github&c=gcse-muslim-beliefs) | AQA GCSE Religious Studies A, Paper 1 (Islam: beliefs and teachings) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
+| [Relationships and families](https://lessicon.com/s/e33b88a03bb4?src=github&c=gcse-rs-relationships) | AQA GCSE Religious Studies A, Paper 2 (Theme A: Relationships and families) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Religion, peace and conflict](https://lessicon.com/s/05ef3934ae32?src=github&c=gcse-rs-peace-conflict) | AQA GCSE Religious Studies A, Paper 2 (Theme D: Religion, peace and conflict) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 
 ## A-level
@@ -332,6 +337,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Aggregate demand and aggregate supply](https://lessicon.com/s/e771523da8fd?src=github&c=yt-jacobclifford-ad-as) | AP Macroeconomics Unit 3 (National Income and Price Determination) test | US AP Macroeconomics Unit 3 tests, Nov–Dec 2026 | [Aggregate Demand and Supply and LRAS; Macroeconomics](https://www.youtube.com/watch?v=em5Wqg1IVp8) by Jacob Clifford |
 | [Fiscal and monetary policy](https://lessicon.com/library/ap-macroeconomics/fiscal-and-monetary-policy?src=github&c=ap-macro-fiscal-monetary-policy) | AP Macroeconomics / intro macro (uni) |  |  |
 | [GDP, unemployment and inflation](https://lessicon.com/s/a1a3139df633?src=github&c=ap-macro-gdp-unemployment-inflat) | AP Macroeconomics |  |  |
+| [The loanable funds market](https://lessicon.com/s/6a371f00bcaf?src=github&c=yt-jacobclifford-loanable-funds) | AP Macroeconomics Unit 4 (Financial Sector), Topic 4.7 | US AP Macroeconomics Unit 4 tests, late Nov–Dec 2026 | [The Loanable Funds Market- Macro Topic 4.7](https://www.youtube.com/watch?v=J_-55Y1eU0s) by Jacob Clifford |
 
 ### AP Microeconomics
 
@@ -460,6 +466,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Research methods in psychology](https://lessicon.com/s/ffb907c32be6?src=github&c=uni-psych-research-methods) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
+| [Social psychology: attribution, attitudes and groups](https://lessicon.com/s/7c399bb18d4b?src=github&c=uni-psych-social) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Microeconomics
 
