@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-168 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+170 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -16,7 +16,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 36 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 37 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 7 sites
 - US AP unit tests: November to early December 2026: 16 sites
 - US college first-year midterms and finals: Nov 16 to Dec 18 2026: 13 sites
@@ -25,9 +25,9 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 ## Contents
 
 - [NCEA (New Zealand)](#ncea-new-zealand) (8)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (91)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (92)
 - [A-level](#a-level) (14)
-- [AP (College Board)](#ap-college-board) (34)
+- [AP (College Board)](#ap-college-board) (35)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
 - [University (first year)](#university-first-year) (13)
@@ -172,6 +172,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Medicine in Britain through time, c1250-present](https://lessicon.com/library/gcse-history/medicine-in-britain-through-time-c1250-present?src=github&c=medicine-through-time) | GCSE (Edexcel) |  |  |
 | [Nazi control of Germany, 1933-1939](https://lessicon.com/s/212752c8f420?src=github&c=gcse-nazi-control) | AQA GCSE History Paper 1 (Germany 1890-1945) / Edexcel Paper 3 (Weimar and Nazi Germany) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Origins of the Cold War, 1945-1949](https://lessicon.com/s/1e52c5ff8cf7?src=github&c=cold-war-origins) | GCSE (AQA/Edexcel/OCR) |  |  |
+| [Stalin's Russia, 1924-1941](https://lessicon.com/s/58d31e61202e?src=github&c=gcse-stalin-russia) | AQA GCSE History Paper 1 (Russia, 1894-1945: Tsardom and communism) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [The League of Nations, 1920-1936](https://lessicon.com/s/58d5d8e29a14?src=github&c=gcse-league-of-nations) | AQA GCSE History Paper 1 (Conflict and Tension, 1918-1939) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [The Russian Revolutions of 1917](https://lessicon.com/library/gcse-history/the-russian-revolutions-of-1917?src=github&c=russian-revolution) | GCSE / A-level |  |  |
 | [The Treaty of Versailles, 1919](https://lessicon.com/library/gcse-history/the-treaty-of-versailles-1919?src=github&c=treaty-of-versailles) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -310,6 +311,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Forces and Newton's laws](https://lessicon.com/s/616c21853c6d?src=github&c=ap-physics-1-newtons-laws) | AP Physics 1 |  |  |
 | [Kinematics](https://lessicon.com/s/31af1192eade?src=github&c=ap-physics-1-kinematics) | AP Physics 1 |  |  |
 | [Work, energy and power](https://lessicon.com/s/9b30d85a01e2?src=github&c=yt-orgchemtutor-work-energy-powe) | AP Physics 1 Unit 3 (Work, Energy, and Power) test | US AP Physics 1 Unit 3 tests, Nov–Dec 2026 | [Work, Energy, and Power - Basic Introduction](https://www.youtube.com/watch?v=_MR1Dp8-F8w) by The Organic Chemistry Tutor |
 
