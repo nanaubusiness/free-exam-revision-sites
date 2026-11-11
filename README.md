@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-263 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+268 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -10,29 +10,31 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 - NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session)
 - NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 78 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 79 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 14 sites
-- US AP unit tests: November to early December 2026: 32 sites
+- US AP unit tests: November to early December 2026: 34 sites
 - US college first-year midterms and finals: Nov 16 to Dec 18 2026: 26 sites
 - IB Diploma: May 2027 session (the Nov 2026 session ends 13 Nov): 2 sites
 
 ## Contents
 
-- [NCEA (New Zealand)](#ncea-new-zealand) (24)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (133)
+- [NCEA (New Zealand)](#ncea-new-zealand) (26)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (134)
 - [A-level](#a-level) (21)
-- [AP (College Board)](#ap-college-board) (51)
+- [AP (College Board)](#ap-college-board) (53)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
 - [University (first year)](#university-first-year) (26)
@@ -45,6 +47,12 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Genetic variation and gene tracking](https://lessicon.com/s/069cf911fc29?src=github&c=ncea-l1-genetic-variation) | NCEA Level 1 Chemistry and Biology AS 92022 | NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable) |  |
 | [Properties and uses of materials](https://lessicon.com/s/c804b5dec877?src=github&c=ncea-l1-materials) | NCEA Level 1 Chemistry and Biology AS 92023 | NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable) |  |
+
+### NCEA Level 1 Science
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Science claims and how science works](https://lessicon.com/s/3eb820484ac1?src=github&c=ncea-l1-science-claims) | NCEA Level 1 Science AS 91922, 91923 | NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 2 Biology
 
@@ -110,6 +118,12 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Written text essay](https://lessicon.com/s/0f0c9602522e?src=github&c=yt-studytimenz-l3-written-text) | NCEA Level 3 English AS 91472 (3.1) Respond critically to specified aspect(s) of studied written text(s) | NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session) | [Written Text / NCEA Level 3 English Strategy Video / StudyTime NZ](https://www.youtube.com/watch?v=oJTI8Ol8MJs) by studytimenz |
+
+### NCEA Level 3 History
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Sources, essays and trends](https://lessicon.com/s/2f62a694f666?src=github&c=ncea-l3-history-skills) | NCEA Level 3 History AS 91436, 91438, 91439 | NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 3 Statistics
 
@@ -281,6 +295,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Newton's laws of motion](https://lessicon.com/library/gcse-physics/newtons-laws-of-motion?src=github&c=newtons-laws-of-motion) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Nuclear fission and fusion](https://lessicon.com/s/bbe1b2776af2?src=github&c=gcse-nuclear-fission-fusion) | GCSE Physics Paper 1 (AQA 8463 Atomic structure) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Radioactivity and half-life](https://lessicon.com/library/gcse-physics/radioactivity-and-half-life?src=github&c=gcse-radioactivity-half-life) | GCSE (AQA/Edexcel/OCR) |  |  |
+| [Space physics](https://lessicon.com/s/fcde1fb4d196?src=github&c=gcse-space-physics) | GCSE Physics Paper 2 (AQA 8463 Space physics) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Specific heat capacity and the particle model](https://lessicon.com/library/gcse-physics/specific-heat-capacity-and-the-particle-model?src=github&c=gcse-specific-heat-capacity) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Speed, acceleration and motion graphs](https://lessicon.com/s/01c40b7d022b?src=github&c=gcse-forces-motion-graphs) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [The electromagnetic spectrum](https://lessicon.com/library/gcse-physics/the-electromagnetic-spectrum?src=github&c=gcse-electromagnetic-spectrum) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -360,7 +375,9 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Cell communication and signal transduction](https://lessicon.com/s/80ff9ac47e5d?src=github&c=ap-bio-cell-communication) | AP Biology Unit 4 test (Cell Communication and Cell Cycle) | US AP Biology Unit 4 tests, mid Nov to Dec 2026 |  |
 | [Cellular respiration](https://lessicon.com/library/ap-biology/cellular-respiration?src=github&c=ap-bio-cellular-respiration) | AP Biology |  |  |
 | [Enzymes](https://lessicon.com/s/45ff4d656853?src=github&c=ap-bio-enzymes) | AP Biology Unit 3 test (Cellular Energetics) | US AP Biology Unit 3 tests, Nov 2026 |  |
+| [Gene expression and regulation](https://lessicon.com/s/2d76c13c470d?src=github&c=ap-bio-gene-expression) | AP Biology Unit 6 test (Gene Expression and Regulation) | US AP Biology Unit 6 tests, Dec 2026 to Jan 2027 (taught from late Nov) |  |
 | [Meiosis and heredity](https://lessicon.com/s/c15d17e23246?src=github&c=ap-bio-heredity-meiosis) | AP Biology Unit 5 test (Heredity) | US AP Biology Unit 5 tests, Dec 2026 to Jan 2027 (meiosis often taught with Unit 4 in Nov) |  |
+| [Pedigree analysis](https://lessicon.com/s/76d09b9390db?src=github&c=yt-amoebasisters-pedigrees) | AP Biology Unit 5 (Heredity): pedigree analysis | US AP Biology Unit 5 tests and fall finals, Dec 2026 | [Pedigrees](https://www.youtube.com/watch?v=Gd09V2AkZv4) by Amoeba Sisters |
 | [Photosynthesis: light reactions and the Calvin cycle](https://lessicon.com/library/ap-biology/photosynthesis-light-reactions-and-the-calvin-cycle?src=github&c=ap-bio-light-reactions-calvin-cy) | AP Biology |  |  |
 | [The cell cycle and mitosis](https://lessicon.com/s/6d0668080bfb?src=github&c=ap-bio-cell-cycle) | AP Biology Unit 4 test (Cell Communication and Cell Cycle) | US AP Biology Unit 4 tests, mid Nov to Dec 2026 |  |
 
