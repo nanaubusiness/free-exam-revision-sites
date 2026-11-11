@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-167 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+168 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -13,8 +13,8 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
 - UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 36 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 7 sites
@@ -24,7 +24,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 ## Contents
 
-- [NCEA (New Zealand)](#ncea-new-zealand) (7)
+- [NCEA (New Zealand)](#ncea-new-zealand) (8)
 - [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (91)
 - [A-level](#a-level) (14)
 - [AP (College Board)](#ap-college-board) (34)
@@ -45,6 +45,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Bonding, structure and energy changes](https://lessicon.com/s/141625fad35b?src=github&c=ncea-l2-bonding) | NCEA Level 2 Chemistry AS 91164 | NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable) |  |
+| [Organic compounds](https://lessicon.com/s/c76fcc2bc6a6?src=github&c=ncea-l2-organic) | NCEA Level 2 Chemistry AS 91165 | NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 2 Mathematics
 
