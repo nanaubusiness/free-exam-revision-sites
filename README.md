@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-177 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+188 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -8,30 +8,31 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 ## Exams coming up
 
-- NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 41 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 48 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 7 sites
-- US AP unit tests: November to early December 2026: 16 sites
+- US AP unit tests: November to early December 2026: 18 sites
 - US college first-year midterms and finals: Nov 16 to Dec 18 2026: 13 sites
 - IB Diploma: May 2027 session (the Nov 2026 session ends 13 Nov): 2 sites
 
 ## Contents
 
-- [NCEA (New Zealand)](#ncea-new-zealand) (10)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (96)
+- [NCEA (New Zealand)](#ncea-new-zealand) (11)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (103)
 - [A-level](#a-level) (14)
-- [AP (College Board)](#ap-college-board) (36)
+- [AP (College Board)](#ap-college-board) (38)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
-- [University (first year)](#university-first-year) (13)
+- [University (first year)](#university-first-year) (14)
 
 ## NCEA (New Zealand)
 
@@ -85,6 +86,12 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Acids, bases and solubility equilibria](https://lessicon.com/s/7bae266ed595?src=github&c=ncea-l3-aqueous-equilibria) | NCEA Level 3 Chemistry AS 91392 | NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable) |  |
 
+### NCEA Level 3 Statistics
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Probability distributions](https://lessicon.com/s/2a6131dcfde7?src=github&c=ncea-l3-probability-distribution) | NCEA Level 3 Statistics AS 91586 | NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable) |  |
+
 ## GCSE (AQA, Edexcel, OCR)
 
 ### GCSE Biology
@@ -137,18 +144,24 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [A Christmas Carol: stave-by-stave summary](https://lessicon.com/s/96d41100a40d?src=github&c=gcse-christmas-carol-staves) | AQA GCSE English Literature Paper 1 (Section B: 19th-century novel) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [A Christmas Carol: themes, characters and quotations](https://lessicon.com/library/gcse-english-literature/a-christmas-carol-themes-characters-and-quotations?src=github&c=a-christmas-carol-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
 | [An Inspector Calls: themes, characters and quotations](https://lessicon.com/library/gcse-english-literature/an-inspector-calls-themes-characters-and-quotations?src=github&c=an-inspector-calls-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
+| [Bayonet Charge by Ted Hughes: poem analysis](https://lessicon.com/s/79dbdbf91362?src=github&c=gcse-bayonet-charge) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [Eric Birling: character and key quotes](https://lessicon.com/s/23eb7a5910a7?src=github&c=gcse-eric-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Exposure by Wilfred Owen: poem analysis](https://lessicon.com/s/dd3b3de886b4?src=github&c=gcse-exposure-owen) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Extract from The Prelude: poem analysis](https://lessicon.com/s/d84fd0bdea57?src=github&c=gcse-prelude-extract) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [Gerald Croft: character and key quotes](https://lessicon.com/s/82146f633ff3?src=github&c=gcse-gerald-croft) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Jekyll and Hyde: characters and key quotes](https://lessicon.com/s/49cab018489a?src=github&c=gcse-jekyll-hyde-characters) | AQA GCSE English Literature Paper 1 (Section B: 19th-century novel) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Lady Macbeth: character and key quotes](https://lessicon.com/s/5583769503ba?src=github&c=gcse-lady-macbeth) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [London by William Blake: poem analysis](https://lessicon.com/s/cf0e754b83f6?src=github&c=gcse-london-blake) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Macbeth Act 1: scene-by-scene summary](https://lessicon.com/s/2358381ad639?src=github&c=gcse-macbeth-act-1) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Macbeth: character and key quotes](https://lessicon.com/s/30da2fad7260?src=github&c=gcse-macbeth-character) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Macbeth: themes and quotations](https://lessicon.com/s/67ef2c1ad38d?src=github&c=macbeth-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
+| [Macduff and Banquo: characters and key quotes](https://lessicon.com/s/bb93d984e556?src=github&c=gcse-macduff-banquo) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Mr Birling: character and key quotes](https://lessicon.com/s/b6fda63d88eb?src=github&c=gcse-mr-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Mrs Birling: character and key quotes](https://lessicon.com/s/d2148a0edfd7?src=github&c=gcse-mrs-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Ozymandias poem analysis](https://lessicon.com/s/5ad7021601cd?src=github&c=gcse-ozymandias) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [Remains by Simon Armitage: poem analysis](https://lessicon.com/s/c2c3c98964e1?src=github&c=gcse-remains) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Romeo and Juliet: themes, characters and quotations](https://lessicon.com/library/gcse-english-literature/romeo-and-juliet-themes-characters-and-quotations?src=github&c=romeo-and-juliet-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
+| [Romeo: character and key quotes](https://lessicon.com/s/304a61274c82?src=github&c=gcse-romeo-character) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Scrooge: character and key quotes](https://lessicon.com/s/73db4178f1c8?src=github&c=gcse-scrooge-character) | AQA GCSE English Literature Paper 1 (Section B: 19th-century novel) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Sheila Birling: character and key quotes](https://lessicon.com/s/39ff10f9a36c?src=github&c=gcse-sheila-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [The Charge of the Light Brigade: poem analysis](https://lessicon.com/s/f4c699fc776f?src=github&c=gcse-charge-light-brigade) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
@@ -227,6 +240,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Christian beliefs and teachings](https://lessicon.com/s/3897464b937d?src=github&c=gcse-christian-beliefs) | AQA GCSE Religious Studies A, Paper 1 (Christianity: beliefs and teachings) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Christian practices](https://lessicon.com/s/041f718f2ae9?src=github&c=gcse-christian-practices) | AQA GCSE Religious Studies A, Paper 1 (Christianity: practices) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Islam: key beliefs](https://lessicon.com/s/0bbcb5db95a1?src=github&c=gcse-muslim-beliefs) | AQA GCSE Religious Studies A, Paper 1 (Islam: beliefs and teachings) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
+| [Religion, peace and conflict](https://lessicon.com/s/05ef3934ae32?src=github&c=gcse-rs-peace-conflict) | AQA GCSE Religious Studies A, Paper 2 (Theme D: Religion, peace and conflict) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 
 ## A-level
 
@@ -275,6 +289,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Cell communication and signal transduction](https://lessicon.com/s/80ff9ac47e5d?src=github&c=ap-bio-cell-communication) | AP Biology Unit 4 test (Cell Communication and Cell Cycle) | US AP Biology Unit 4 tests, mid Nov to Dec 2026 |  |
 | [Cellular respiration](https://lessicon.com/library/ap-biology/cellular-respiration?src=github&c=ap-bio-cellular-respiration) | AP Biology |  |  |
 | [Enzymes](https://lessicon.com/s/45ff4d656853?src=github&c=ap-bio-enzymes) | AP Biology Unit 3 test (Cellular Energetics) | US AP Biology Unit 3 tests, Nov 2026 |  |
 | [Photosynthesis: light reactions and the Calvin cycle](https://lessicon.com/library/ap-biology/photosynthesis-light-reactions-and-the-calvin-cycle?src=github&c=ap-bio-light-reactions-calvin-cy) | AP Biology |  |  |
@@ -303,6 +318,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [The Catholic Reformation](https://lessicon.com/s/0b42376ec9ec?src=github&c=yt-heimler-counter-reformation) | AP European History Unit 2 (Age of Reformation) test | US AP European History Unit 2 tests, Nov 2026 | [The Catholic (Counter) Reformation, Explained [AP Euro—Unit 2 Topic 5]](https://www.youtube.com/watch?v=MHDAZRPydRY) by Heimler's History |
 | [The Protestant Reformation](https://lessicon.com/s/210650a6d59f?src=github&c=yt-heimler-protestant-reformatio) | AP European History Unit 2 (Age of Reformation) test | US AP European History Unit 2 tests, Nov 2026 | [The Protestant REFORMATION, Explained [AP Euro Review: Unit 2 Topic 2 (2.2)]](https://www.youtube.com/watch?v=5yLHpRDCUlw) by Heimler's History |
 
 ### AP Macroeconomics
@@ -433,6 +449,12 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Hybrid orbitals and bonding theories](https://lessicon.com/s/f89375bd2a4c?src=github&c=yt-profdave-hybridization) | University General Chemistry I exams and finals (bonding theories) | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 | [Valence Bond Theory, Hybrid Orbitals, and Molecular Orbital Theory](https://www.youtube.com/watch?v=nTujP4jCbsg) by Professor Dave Explains |
 | [Quantum numbers and electron configuration](https://lessicon.com/s/fdebb54f4d73?src=github&c=uni-genchem-electron-config) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 | [VSEPR theory and molecular shapes](https://lessicon.com/s/2badeea935a5?src=github&c=uni-genchem-vsepr) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
+
+### University Intro Psychology
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Research methods in psychology](https://lessicon.com/s/ffb907c32be6?src=github&c=uni-psych-research-methods) | University (Intro Psychology) |  |  |
 
 ### University Microeconomics
 
