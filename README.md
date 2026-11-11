@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-170 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+177 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -8,15 +8,16 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 ## Exams coming up
 
-- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 37 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 41 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 7 sites
 - US AP unit tests: November to early December 2026: 16 sites
 - US college first-year midterms and finals: Nov 16 to Dec 18 2026: 13 sites
@@ -24,15 +25,21 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 ## Contents
 
-- [NCEA (New Zealand)](#ncea-new-zealand) (8)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (92)
+- [NCEA (New Zealand)](#ncea-new-zealand) (10)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (96)
 - [A-level](#a-level) (14)
-- [AP (College Board)](#ap-college-board) (35)
+- [AP (College Board)](#ap-college-board) (36)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
 - [University (first year)](#university-first-year) (13)
 
 ## NCEA (New Zealand)
+
+### NCEA Level 1 Chemistry and Biology
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Genetic variation and gene tracking](https://lessicon.com/s/069cf911fc29?src=github&c=ncea-l1-genetic-variation) | NCEA Level 1 Chemistry and Biology AS 92022 | NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 2 Biology
 
@@ -64,6 +71,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Evolution and speciation](https://lessicon.com/s/12f1745de279?src=github&c=ncea-l3-speciation) | NCEA Level 3 Biology AS 91605 | NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable) |  |
+| [Human evolution](https://lessicon.com/s/45701a8096e5?src=github&c=ncea-l3-human-evolution) | NCEA Level 3 Biology AS 91606 | NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 3 Calculus
 
@@ -138,6 +146,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Macbeth: character and key quotes](https://lessicon.com/s/30da2fad7260?src=github&c=gcse-macbeth-character) | AQA GCSE English Literature Paper 1 (Section A: Shakespeare) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Macbeth: themes and quotations](https://lessicon.com/s/67ef2c1ad38d?src=github&c=macbeth-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
 | [Mr Birling: character and key quotes](https://lessicon.com/s/b6fda63d88eb?src=github&c=gcse-mr-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
+| [Mrs Birling: character and key quotes](https://lessicon.com/s/d2148a0edfd7?src=github&c=gcse-mrs-birling) | AQA GCSE English Literature Paper 2 (Section A: An Inspector Calls) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Ozymandias poem analysis](https://lessicon.com/s/5ad7021601cd?src=github&c=gcse-ozymandias) | AQA GCSE English Literature Paper 2 (Section B: Power and Conflict poetry) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
 | [Romeo and Juliet: themes, characters and quotations](https://lessicon.com/library/gcse-english-literature/romeo-and-juliet-themes-characters-and-quotations?src=github&c=romeo-and-juliet-themes) | GCSE English Literature (AQA/Edexcel/OCR) |  |  |
 | [Scrooge: character and key quotes](https://lessicon.com/s/73db4178f1c8?src=github&c=gcse-scrooge-character) | AQA GCSE English Literature Paper 1 (Section B: 19th-century novel) | UK Year 11 mocks, Nov 2–Dec 17 2026 (school by school) |  |
@@ -173,6 +182,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Nazi control of Germany, 1933-1939](https://lessicon.com/s/212752c8f420?src=github&c=gcse-nazi-control) | AQA GCSE History Paper 1 (Germany 1890-1945) / Edexcel Paper 3 (Weimar and Nazi Germany) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Origins of the Cold War, 1945-1949](https://lessicon.com/s/1e52c5ff8cf7?src=github&c=cold-war-origins) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Stalin's Russia, 1924-1941](https://lessicon.com/s/58d31e61202e?src=github&c=gcse-stalin-russia) | AQA GCSE History Paper 1 (Russia, 1894-1945: Tsardom and communism) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
+| [The First World War, 1914-1918: the fighting](https://lessicon.com/s/0e5799c197b3?src=github&c=gcse-ww1-fighting) | AQA GCSE History Paper 1 (Conflict and Tension, 1894-1918) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [The League of Nations, 1920-1936](https://lessicon.com/s/58d5d8e29a14?src=github&c=gcse-league-of-nations) | AQA GCSE History Paper 1 (Conflict and Tension, 1918-1939) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [The Russian Revolutions of 1917](https://lessicon.com/library/gcse-history/the-russian-revolutions-of-1917?src=github&c=russian-revolution) | GCSE / A-level |  |  |
 | [The Treaty of Versailles, 1919](https://lessicon.com/library/gcse-history/the-treaty-of-versailles-1919?src=github&c=treaty-of-versailles) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -186,6 +196,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Circle theorems](https://lessicon.com/s/ce7936280193?src=github&c=yt-corbettmaths-circle-theorems) | GCSE Maths Higher tier (geometry: circle theorems) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [Circle Theorems - Corbettmaths](https://www.youtube.com/watch?v=vgMSLsos7Ew) by corbettmaths |
 | [Expanding and factorising](https://lessicon.com/s/376e34b9b5a0?src=github&c=gcse-expanding-factorising) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) algebra | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+| [Indices and surds](https://lessicon.com/s/bce8b16194cd?src=github&c=gcse-indices-surds) | GCSE Maths Higher (AQA 8300, Edexcel 1MA1, OCR J560) number | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Probability](https://lessicon.com/library/gcse-maths/probability?src=github&c=gcse-probability) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Pythagoras' theorem](https://lessicon.com/s/f6bfa5e92bd9?src=github&c=gcse-pythagoras) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Quadratic equations](https://lessicon.com/library/gcse-maths/quadratic-equations?src=github&c=gcse-quadratic-equations) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
@@ -214,6 +225,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Christian beliefs and teachings](https://lessicon.com/s/3897464b937d?src=github&c=gcse-christian-beliefs) | AQA GCSE Religious Studies A, Paper 1 (Christianity: beliefs and teachings) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
+| [Christian practices](https://lessicon.com/s/041f718f2ae9?src=github&c=gcse-christian-practices) | AQA GCSE Religious Studies A, Paper 1 (Christianity: practices) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Islam: key beliefs](https://lessicon.com/s/0bbcb5db95a1?src=github&c=gcse-muslim-beliefs) | AQA GCSE Religious Studies A, Paper 1 (Islam: beliefs and teachings) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 
 ## A-level
@@ -320,6 +332,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Exponential and logarithmic functions](https://lessicon.com/s/4e1f99c642cb?src=github&c=ap-precalc-exponential-log) | AP Precalculus Unit 2 test (Exponential and Logarithmic Functions) | US AP Precalculus Unit 2 tests, Nov to Dec 2026 |  |
+| [Polynomial and rational functions](https://lessicon.com/s/855bf33da04d?src=github&c=ap-precalc-polynomial-rational) | AP Precalculus |  |  |
 
 ### AP Psychology
 
