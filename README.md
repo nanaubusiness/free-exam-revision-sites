@@ -9,17 +9,17 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 ## Exams coming up
 
 - NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session)
+- NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
 - NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable)
@@ -642,32 +642,32 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [DILR: set types and how to attack each one](https://lessicon.com/s/4a2773a8db1c?src=github&c=cat-dilr) | CAT 2026 Data Interpretation and Logical Reasoning (exam Sunday 29 November 2026) |  |  |
-| [Quant: Algebra, Geometry and Number System](https://lessicon.com/s/136fc7bfb23c?src=github&c=cat-algebra-geometry-numbers) | CAT 2026 Quantitative Aptitude (exam Sunday 29 November 2026) |  |  |
-| [Quant: Arithmetic](https://lessicon.com/s/ae59957efd61?src=github&c=cat-arithmetic) | CAT 2026 Quantitative Aptitude (exam Sunday 29 November 2026) |  |  |
+| [DILR: set types and how to attack each one](https://lessicon.com/library/cat/dilr-set-types-and-how-to-attack-each-one?src=github&c=cat-dilr) | CAT 2026 Data Interpretation and Logical Reasoning (exam Sunday 29 November 2026) |  |  |
+| [Quant: Algebra, Geometry and Number System](https://lessicon.com/library/cat/quant-algebra-geometry-and-number-system?src=github&c=cat-algebra-geometry-numbers) | CAT 2026 Quantitative Aptitude (exam Sunday 29 November 2026) |  |  |
+| [Quant: Arithmetic](https://lessicon.com/library/cat/quant-arithmetic?src=github&c=cat-arithmetic) | CAT 2026 Quantitative Aptitude (exam Sunday 29 November 2026) |  |  |
 
 ### CLAT
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Current Affairs 2026](https://lessicon.com/s/539f58942aed?src=github&c=notes-ca) | CLAT 2027 (Sunday 6 December 2026): Current Affairs and General Knowledge |  |  |
-| [Legal Reasoning](https://lessicon.com/s/a0408b5afd3c?src=github&c=notes-legal) | CLAT 2027 (Sunday 6 December 2026): Legal Reasoning |  |  |
-| [Logical Reasoning and Quantitative Techniques](https://lessicon.com/s/a257d0fab36b?src=github&c=clat) | CLAT 2027 (Sunday 6 December 2026): Logical Reasoning and Quantitative Techniques |  |  |
+| [Current Affairs 2026](https://lessicon.com/library/clat/current-affairs-2026?src=github&c=notes-ca) | CLAT 2027 (Sunday 6 December 2026): Current Affairs and General Knowledge |  |  |
+| [Legal Reasoning](https://lessicon.com/library/clat/legal-reasoning?src=github&c=notes-legal) | CLAT 2027 (Sunday 6 December 2026): Legal Reasoning |  |  |
+| [Logical Reasoning and Quantitative Techniques](https://lessicon.com/library/clat/logical-reasoning-and-quantitative-techniques?src=github&c=clat) | CLAT 2027 (Sunday 6 December 2026): Logical Reasoning and Quantitative Techniques |  |  |
 
 ### ENEM
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Biologia](https://lessicon.com/s/15bc57a7a467?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
-| [Física](https://lessicon.com/s/7b15266985d4?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
-| [Matemática](https://lessicon.com/s/cb6a2dcbb2a6?src=github&c=enem) | ENEM 2026, 2º dia: Matemática e suas Tecnologias |  |  |
-| [Química](https://lessicon.com/s/d273748ee75e?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
+| [Biologia](https://lessicon.com/library/enem/biologia?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
+| [Física](https://lessicon.com/library/enem/fisica?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
+| [Matemática](https://lessicon.com/library/enem/matematica?src=github&c=enem) | ENEM 2026, 2º dia: Matemática e suas Tecnologias |  |  |
+| [Química](https://lessicon.com/library/enem/quimica?src=github&c=enem) | ENEM 2026, 2º dia: Ciências da Natureza |  |  |
 
 ### PAES
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Ciencias](https://lessicon.com/s/e9dd34c70b9c?src=github&c=paes) | PAES Regular Admisión 2027: Ciencias |  |  |
+| [Ciencias](https://lessicon.com/library/paes/ciencias?src=github&c=paes) | PAES Regular Admisión 2027: Ciencias |  |  |
 | [Competencia Matemática M1](https://lessicon.com/s/40d313bbf0d5?src=github&c=paes) | PAES Regular Admisión 2027: Competencia Matemática 1 (M1) |  |  |
 | [Historia y Ciencias Sociales](https://lessicon.com/s/935c1f3e4e41?src=github&c=paes) | PAES Regular Admisión 2027: Historia y Ciencias Sociales |  |  |
 
@@ -675,9 +675,9 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Biologi](https://lessicon.com/s/5ac620ed7583?src=github&c=biologi) | SPM 2026 Biologi |  |  |
-| [Matematik](https://lessicon.com/s/8b64d4013faa?src=github&c=matematik) | SPM 2026 Matematik (1449) |  |  |
-| [Sejarah](https://lessicon.com/s/3eae9107579a?src=github&c=spm) | SPM 2026 Sejarah (1249) |  |  |
+| [Biologi](https://lessicon.com/library/spm/biologi?src=github&c=biologi) | SPM 2026 Biologi |  |  |
+| [Matematik](https://lessicon.com/library/spm/matematik?src=github&c=matematik) | SPM 2026 Matematik (1449) |  |  |
+| [Sejarah](https://lessicon.com/library/spm/sejarah?src=github&c=spm) | SPM 2026 Sejarah (1249) |  |  |
 
 ### Vestibular Fuvest e Unicamp
 
