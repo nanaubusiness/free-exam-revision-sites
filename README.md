@@ -9,22 +9,22 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 ## Exams coming up
 
 - NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session)
-- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Earth and Space Science exam, Tue 1 Dec 2026 9:30am (NZQA timetable)
+- NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 5 sites
 - UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 79 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 14 sites
@@ -56,7 +56,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Science claims and how science works](https://lessicon.com/s/3eb820484ac1?src=github&c=ncea-l1-science-claims) | NCEA Level 1 Science AS 91922, 91923 | NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable) |  |
+| [Science claims and how science works](https://lessicon.com/library/ncea-level-1-science/science-claims-and-how-science-works?src=github&c=ncea-l1-science-claims) | NCEA Level 1 Science AS 91922, 91923 | NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 2 Biology
 
@@ -77,14 +77,14 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Extreme Earth events in New Zealand](https://lessicon.com/s/af6d5fc8e169?src=github&c=ncea-l2-extreme-earth-events) | NCEA Level 2 Earth and Space Science AS 91191 | NCEA Level 2 Earth and Space Science exam, Tue 1 Dec 2026 9:30am (NZQA timetable) |  |
+| [Extreme Earth events in New Zealand](https://lessicon.com/library/ncea-level-2-earth-and-space-science/extreme-earth-events-in-new-zealand?src=github&c=ncea-l2-extreme-earth-events) | NCEA Level 2 Earth and Space Science AS 91191 | NCEA Level 2 Earth and Space Science exam, Tue 1 Dec 2026 9:30am (NZQA timetable) |  |
 
 ### NCEA Level 2 Economics
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Inflation](https://lessicon.com/s/d7c673735562?src=github&c=ncea-l2-inflation) | NCEA Level 2 Economics AS 91222 | NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable) |  |
-| [International trade](https://lessicon.com/s/05d329a81cca?src=github&c=ncea-l2-international-trade) | NCEA Level 2 Economics AS 91223 | NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable) |  |
+| [Inflation](https://lessicon.com/library/ncea-level-2-economics/inflation?src=github&c=ncea-l2-inflation) | NCEA Level 2 Economics AS 91222 | NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable) |  |
+| [International trade](https://lessicon.com/library/ncea-level-2-economics/international-trade?src=github&c=ncea-l2-international-trade) | NCEA Level 2 Economics AS 91223 | NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable) |  |
 
 ### NCEA Level 2 Mathematics
 
@@ -128,7 +128,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [The ocean system](https://lessicon.com/s/f181c37f6a82?src=github&c=ncea-l3-ocean-system) | NCEA Level 3 Earth and Space Science AS 91413 | NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable) |  |
+| [The ocean system](https://lessicon.com/library/ncea-level-3-earth-and-space-science/the-ocean-system?src=github&c=ncea-l3-ocean-system) | NCEA Level 3 Earth and Space Science AS 91413 | NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 3 Economics
 
@@ -146,7 +146,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Sources, essays and trends](https://lessicon.com/s/2f62a694f666?src=github&c=ncea-l3-history-skills) | NCEA Level 3 History AS 91436, 91438, 91439 | NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable) |  |
+| [Sources, essays and trends](https://lessicon.com/library/ncea-level-3-history/sources-essays-and-trends?src=github&c=ncea-l3-history-skills) | NCEA Level 3 History AS 91436, 91438, 91439 | NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable) |  |
 
 ### NCEA Level 3 Statistics
 
@@ -193,7 +193,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Exothermic and endothermic reactions](https://lessicon.com/library/gcse-chemistry/exothermic-and-endothermic-reactions?src=github&c=gcse-energy-changes) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Ionic bonding](https://lessicon.com/library/gcse-chemistry/ionic-bonding?src=github&c=gcse-ionic-bonding) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Moles and quantitative chemistry](https://lessicon.com/library/gcse-chemistry/moles-and-quantitative-chemistry?src=github&c=gcse-moles) | GCSE (AQA/Edexcel/OCR) |  |  |
-| [Organic chemistry: alkenes, alcohols and polymers](https://lessicon.com/s/53d44f37a757?src=github&c=gcse-organic-chemistry) | GCSE Chemistry Paper 2 (AQA 8462 Organic chemistry: alkenes, alcohols, carboxylic acids, polymers) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+| [Organic chemistry: alkenes, alcohols and polymers](https://lessicon.com/library/gcse-chemistry/organic-chemistry-alkenes-alcohols-and-polymers?src=github&c=gcse-organic-chemistry) | GCSE Chemistry Paper 2 (AQA 8462 Organic chemistry: alkenes, alcohols, carboxylic acids, polymers) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Rates of reaction](https://lessicon.com/library/gcse-chemistry/rates-of-reaction?src=github&c=gcse-rates-of-reaction) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Reactions of acids and neutralisation](https://lessicon.com/library/gcse-chemistry/reactions-of-acids-and-neutralisation?src=github&c=yt-cognito-neutralisation) | GCSE Chemistry Paper 1 (chemical changes: acids, salts, neutralisation) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Chemistry - Neutralisation Reactions / Reactions of Acids (2027/28 exams)](https://www.youtube.com/watch?v=vcxlISVJ6Os) by Cognito |
 | [Strong and weak acids](https://lessicon.com/library/gcse-chemistry/strong-and-weak-acids?src=github&c=yt-freesciencelessons-strong-wea) | GCSE Chemistry Paper 1 (chemical changes: strong and weak acids, Higher) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Chemistry Revision "Strong and Weak Acids"](https://www.youtube.com/watch?v=4pIHhXfGZlE) by Freesciencelessons |
@@ -300,7 +300,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Pythagoras' theorem](https://lessicon.com/library/gcse-maths/pythagoras-theorem?src=github&c=gcse-pythagoras) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Quadratic equations](https://lessicon.com/library/gcse-maths/quadratic-equations?src=github&c=gcse-quadratic-equations) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Ratio and proportion](https://lessicon.com/library/gcse-maths/ratio-and-proportion?src=github&c=gcse-ratio-proportion) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) ratio and proportion | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
-| [Sequences and the nth term](https://lessicon.com/s/1c041b806010?src=github&c=gcse-sequences-nth-term) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) algebra: sequences | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+| [Sequences and the nth term](https://lessicon.com/library/gcse-maths/sequences-and-the-nth-term?src=github&c=gcse-sequences-nth-term) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) algebra: sequences | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Simultaneous equations](https://lessicon.com/library/gcse-maths/simultaneous-equations?src=github&c=gcse-simultaneous-equations) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Straight-line graphs: y = mx + c](https://lessicon.com/library/gcse-maths/straight-line-graphs-y-mx-c?src=github&c=gcse-straight-line-graphs) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) graphs | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Trigonometry: SOHCAHTOA](https://lessicon.com/library/gcse-maths/trigonometry-sohcahtoa?src=github&c=gcse-trigonometry-sohcahtoa) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -318,7 +318,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Newton's laws of motion](https://lessicon.com/library/gcse-physics/newtons-laws-of-motion?src=github&c=newtons-laws-of-motion) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Nuclear fission and fusion](https://lessicon.com/library/gcse-physics/nuclear-fission-and-fusion?src=github&c=gcse-nuclear-fission-fusion) | GCSE Physics Paper 1 (AQA 8463 Atomic structure) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Radioactivity and half-life](https://lessicon.com/library/gcse-physics/radioactivity-and-half-life?src=github&c=gcse-radioactivity-half-life) | GCSE (AQA/Edexcel/OCR) |  |  |
-| [Space physics](https://lessicon.com/s/fcde1fb4d196?src=github&c=gcse-space-physics) | GCSE Physics Paper 2 (AQA 8463 Space physics) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+| [Space physics](https://lessicon.com/library/gcse-physics/space-physics?src=github&c=gcse-space-physics) | GCSE Physics Paper 2 (AQA 8463 Space physics) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Specific heat capacity and the particle model](https://lessicon.com/library/gcse-physics/specific-heat-capacity-and-the-particle-model?src=github&c=gcse-specific-heat-capacity) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Speed, acceleration and motion graphs](https://lessicon.com/library/gcse-physics/speed-acceleration-and-motion-graphs?src=github&c=gcse-forces-motion-graphs) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [The electromagnetic spectrum](https://lessicon.com/library/gcse-physics/the-electromagnetic-spectrum?src=github&c=gcse-electromagnetic-spectrum) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -398,9 +398,9 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Cell communication and signal transduction](https://lessicon.com/library/ap-biology/cell-communication-and-signal-transduction?src=github&c=ap-bio-cell-communication) | AP Biology Unit 4 test (Cell Communication and Cell Cycle) | US AP Biology Unit 4 tests, mid Nov to Dec 2026 |  |
 | [Cellular respiration](https://lessicon.com/library/ap-biology/cellular-respiration?src=github&c=ap-bio-cellular-respiration) | AP Biology |  |  |
 | [Enzymes](https://lessicon.com/library/ap-biology/enzymes?src=github&c=ap-bio-enzymes) | AP Biology Unit 3 test (Cellular Energetics) | US AP Biology Unit 3 tests, Nov 2026 |  |
-| [Gene expression and regulation](https://lessicon.com/s/2d76c13c470d?src=github&c=ap-bio-gene-expression) | AP Biology Unit 6 test (Gene Expression and Regulation) | US AP Biology Unit 6 tests, Dec 2026 to Jan 2027 (taught from late Nov) |  |
+| [Gene expression and regulation](https://lessicon.com/library/ap-biology/gene-expression-and-regulation?src=github&c=ap-bio-gene-expression) | AP Biology Unit 6 test (Gene Expression and Regulation) | US AP Biology Unit 6 tests, Dec 2026 to Jan 2027 (taught from late Nov) |  |
 | [Meiosis and heredity](https://lessicon.com/library/ap-biology/meiosis-and-heredity?src=github&c=ap-bio-heredity-meiosis) | AP Biology Unit 5 test (Heredity) | US AP Biology Unit 5 tests, Dec 2026 to Jan 2027 (meiosis often taught with Unit 4 in Nov) |  |
-| [Pedigree analysis](https://lessicon.com/s/76d09b9390db?src=github&c=yt-amoebasisters-pedigrees) | AP Biology Unit 5 (Heredity): pedigree analysis | US AP Biology Unit 5 tests and fall finals, Dec 2026 | [Pedigrees](https://www.youtube.com/watch?v=Gd09V2AkZv4) by Amoeba Sisters |
+| [Pedigree analysis](https://lessicon.com/library/ap-biology/pedigree-analysis?src=github&c=yt-amoebasisters-pedigrees) | AP Biology Unit 5 (Heredity): pedigree analysis | US AP Biology Unit 5 tests and fall finals, Dec 2026 | [Pedigrees](https://www.youtube.com/watch?v=Gd09V2AkZv4) by Amoeba Sisters |
 | [Photosynthesis: light reactions and the Calvin cycle](https://lessicon.com/library/ap-biology/photosynthesis-light-reactions-and-the-calvin-cycle?src=github&c=ap-bio-light-reactions-calvin-cy) | AP Biology |  |  |
 | [The cell cycle and mitosis](https://lessicon.com/library/ap-biology/the-cell-cycle-and-mitosis?src=github&c=ap-bio-cell-cycle) | AP Biology Unit 4 test (Cell Communication and Cell Cycle) | US AP Biology Unit 4 tests, mid Nov to Dec 2026 |  |
 
@@ -515,7 +515,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Geometry and trigonometry](https://lessicon.com/s/a074527ecaa4?src=github&c=sat-geometry-trig) | Digital SAT Math: Geometry and Trigonometry | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
+| [Geometry and trigonometry](https://lessicon.com/library/sat-math/geometry-and-trigonometry?src=github&c=sat-geometry-trig) | Digital SAT Math: Geometry and Trigonometry | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
 | [Linear equations and systems](https://lessicon.com/library/sat-math/linear-equations-and-systems?src=github&c=sat-linear-equations) | SAT Math |  |  |
 | [Quadratics and nonlinear functions](https://lessicon.com/library/sat-math/quadratics-and-nonlinear-functions?src=github&c=sat-quadratics) | Digital SAT Math: Advanced Math | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
 | [Ratios, rates and percents](https://lessicon.com/library/sat-math/ratios-rates-and-percents?src=github&c=sat-ratios-percentages) | SAT Math |  |  |
@@ -526,7 +526,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Boundaries and punctuation](https://lessicon.com/library/sat-reading-and-writing/boundaries-and-punctuation?src=github&c=sat-punctuation) | Digital SAT Reading and Writing: Standard English Conventions | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
-| [Transitions and words in context](https://lessicon.com/s/f3daf875d95d?src=github&c=sat-transitions-words) | Digital SAT Reading and Writing: Words in Context, Transitions, Rhetorical Synthesis | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
+| [Transitions and words in context](https://lessicon.com/library/sat-reading-and-writing/transitions-and-words-in-context?src=github&c=sat-transitions-words) | Digital SAT Reading and Writing: Words in Context, Transitions, Rhetorical Synthesis | SAT test date Sat 5 Dec 2026 (registration deadline 20 Nov) |  |
 
 ## IB Diploma
 
@@ -558,17 +558,17 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [DNA replication](https://lessicon.com/library/university-biology/dna-replication?src=github&c=uni-bio-dna-replication) | University Introductory Biology exam / final | US college intro biology exams and finals, Nov 16–Dec 18 2026 |  |
-| [Enzyme kinetics and inhibition](https://lessicon.com/s/af349dae38ca?src=github&c=uni-bio-enzyme-kinetics) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
+| [Enzyme kinetics and inhibition](https://lessicon.com/library/university-biology/enzyme-kinetics-and-inhibition?src=github&c=uni-bio-enzyme-kinetics) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
 | [Mendelian genetics and pedigrees](https://lessicon.com/library/university-biology/mendelian-genetics-and-pedigrees?src=github&c=uni-bio-mendelian-genetics) | University Introductory Biology exam / final | US college intro biology exams and finals, Nov 16–Dec 18 2026 |  |
-| [The electron transport chain](https://lessicon.com/s/8be35c476cec?src=github&c=uni-bio-etc) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
-| [The Krebs cycle](https://lessicon.com/s/ef19d009f661?src=github&c=uni-bio-krebs) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
+| [The electron transport chain](https://lessicon.com/library/university-biology/the-electron-transport-chain?src=github&c=uni-bio-etc) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
+| [The Krebs cycle](https://lessicon.com/library/university-biology/the-krebs-cycle?src=github&c=uni-bio-krebs) | University Introductory Biology / Biochemistry exam | US college biology and biochemistry exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Calculus I
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [L'Hôpital's rule](https://lessicon.com/library/university-calculus-i/lhopitals-rule?src=github&c=uni-calc-lhopital) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
-| [Linear approximation and Newton's method](https://lessicon.com/s/65c880018a4f?src=github&c=uni-calc-linear-approx) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Linear approximation and Newton's method](https://lessicon.com/library/university-calculus-i/linear-approximation-and-newtons-method?src=github&c=uni-calc-linear-approx) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Optimization problems](https://lessicon.com/library/university-calculus-i/optimization-problems?src=github&c=uni-calc-optimization) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Riemann sums and the definite integral](https://lessicon.com/library/university-calculus-i/riemann-sums-and-the-definite-integral?src=github&c=uni-calc-riemann-sums) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
 
@@ -588,15 +588,15 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Research methods in psychology](https://lessicon.com/library/university-intro-psychology/research-methods-in-psychology?src=github&c=uni-psych-research-methods) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
 | [Social psychology: attribution, attitudes and groups](https://lessicon.com/library/university-intro-psychology/social-psychology-attribution-attitudes-and-groups?src=github&c=uni-psych-social) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
-| [Synapses and drugs](https://lessicon.com/s/1b6a4178b415?src=github&c=uni-psych-synapses-drugs) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
+| [Synapses and drugs](https://lessicon.com/library/university-intro-psychology/synapses-and-drugs?src=github&c=uni-psych-synapses-drugs) | University Introduction to Psychology exam / final | US college intro psychology exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Microeconomics
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Perfect competition vs monopoly](https://lessicon.com/library/university-microeconomics/perfect-competition-vs-monopoly?src=github&c=uni-micro-market-structures) | University Principles of Microeconomics midterm / final | US college Principles of Microeconomics exams and finals, Nov 16–Dec 18 2026 |  |
-| [Production and cost curves](https://lessicon.com/s/857614a3346e?src=github&c=uni-micro-cost-curves) | University Principles of Microeconomics midterm / final | US college Principles of Microeconomics exams and finals, Nov 16–Dec 18 2026 |  |
-| [Surplus, taxes and deadweight loss](https://lessicon.com/s/9b6333209f2f?src=github&c=uni-micro-taxes-surplus) | University Principles of Microeconomics midterm / final | US college Principles of Microeconomics exams and finals, Nov 16–Dec 18 2026 |  |
+| [Production and cost curves](https://lessicon.com/library/university-microeconomics/production-and-cost-curves?src=github&c=uni-micro-cost-curves) | University Principles of Microeconomics midterm / final | US college Principles of Microeconomics exams and finals, Nov 16–Dec 18 2026 |  |
+| [Surplus, taxes and deadweight loss](https://lessicon.com/library/university-microeconomics/surplus-taxes-and-deadweight-loss?src=github&c=uni-micro-taxes-surplus) | University Principles of Microeconomics midterm / final | US college Principles of Microeconomics exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Organic Chemistry
 
@@ -619,8 +619,8 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Fluids: pressure and buoyancy](https://lessicon.com/s/883f5e6754e9?src=github&c=uni-physics-fluids) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
-| [Friction and inclined planes](https://lessicon.com/s/01e1f0662d37?src=github&c=uni-physics-friction-inclines) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Fluids: pressure and buoyancy](https://lessicon.com/library/university-physics-i/fluids-pressure-and-buoyancy?src=github&c=uni-physics-fluids) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Friction and inclined planes](https://lessicon.com/library/university-physics-i/friction-and-inclined-planes?src=github&c=uni-physics-friction-inclines) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Momentum and collisions](https://lessicon.com/library/university-physics-i/momentum-and-collisions?src=github&c=uni-physics-momentum) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Statistics
@@ -636,7 +636,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
-| [Grammar and usage](https://lessicon.com/s/81cf5e20e304?src=github&c=act-english-conventions) | ACT English (enhanced ACT) | ACT national test date Sat 12 Dec 2026 (late registration to 29 Nov) |  |
+| [Grammar and usage](https://lessicon.com/library/act-english/grammar-and-usage?src=github&c=act-english-conventions) | ACT English (enhanced ACT) | ACT national test date Sat 12 Dec 2026 (late registration to 29 Nov) |  |
 
 ## About
 
