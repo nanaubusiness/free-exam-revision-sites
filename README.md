@@ -8,8 +8,8 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 ## Exams coming up
 
-- NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
