@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-237 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+256 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -15,27 +15,27 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 69 sites
-- UK Year 13 A-level mocks and autumn tests: November to December 2026: 7 sites
-- US AP unit tests: November to early December 2026: 31 sites
-- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 17 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 74 sites
+- UK Year 13 A-level mocks and autumn tests: November to December 2026: 11 sites
+- US AP unit tests: November to early December 2026: 32 sites
+- US college first-year midterms and finals: Nov 16 to Dec 18 2026: 26 sites
 - IB Diploma: May 2027 session (the Nov 2026 session ends 13 Nov): 2 sites
 
 ## Contents
 
 - [NCEA (New Zealand)](#ncea-new-zealand) (24)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (124)
-- [A-level](#a-level) (14)
-- [AP (College Board)](#ap-college-board) (50)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (129)
+- [A-level](#a-level) (18)
+- [AP (College Board)](#ap-college-board) (51)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
-- [University (first year)](#university-first-year) (17)
+- [University (first year)](#university-first-year) (26)
 
 ## NCEA (New Zealand)
 
@@ -124,6 +124,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Biology required practicals](https://lessicon.com/s/0db656c6a3ff?src=github&c=gcse-required-practicals-biology) | AQA GCSE Biology 8461 / Combined Science Trilogy 8464 required practicals | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Cell division: mitosis and meiosis](https://lessicon.com/library/gcse-biology/cell-division-mitosis-and-meiosis?src=github&c=mitosis-and-meiosis) | GCSE / A-level |  |  |
 | [Cell structure and microscopy](https://lessicon.com/library/gcse-biology/cell-structure-and-microscopy?src=github&c=gcse-cell-structure) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Communicable disease and the immune system](https://lessicon.com/library/gcse-biology/communicable-disease-and-the-immune-system?src=github&c=gcse-immune-system-disease) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -148,6 +149,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Atomic structure](https://lessicon.com/library/gcse-chemistry/atomic-structure?src=github&c=gcse-atomic-structure) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Chemical analysis](https://lessicon.com/s/22d5ab817e62?src=github&c=gcse-chemical-analysis) | GCSE Chemistry Paper 2 (AQA 8462 Chemical analysis) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+| [Chemistry required practicals](https://lessicon.com/s/1f07a2c778f8?src=github&c=gcse-required-practicals-chemist) | AQA GCSE Chemistry 8462 / Combined Science Trilogy 8464 required practicals | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Covalent bonding and structure](https://lessicon.com/library/gcse-chemistry/covalent-bonding-and-structure?src=github&c=gcse-covalent-bonding) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Crude oil and alkanes](https://lessicon.com/s/ba6da2cab778?src=github&c=yt-freesciencelessons-crude-oil) | GCSE Chemistry Paper 2 (organic chemistry: crude oil, hydrocarbons, cracking) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Chemistry Revision "Crude oil and Hydrocarbons"](https://www.youtube.com/watch?v=CX2IYWggEBc) by Freesciencelessons |
 | [Electrolysis](https://lessicon.com/library/gcse-chemistry/electrolysis?src=github&c=gcse-electrolysis) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -215,6 +217,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Plate tectonics and tectonic hazards](https://lessicon.com/library/gcse-geography/plate-tectonics-and-tectonic-hazards?src=github&c=gcse-plate-tectonics) | GCSE Geography (AQA/Edexcel/OCR) |  |  |
 | [Resource management in the UK](https://lessicon.com/s/e05ac87ef34d?src=github&c=gcse-resource-management) | AQA GCSE Geography Paper 2 (The challenge of resource management) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Rivers: processes and landforms](https://lessicon.com/library/gcse-geography/rivers-processes-and-landforms?src=github&c=gcse-rivers) | GCSE Geography (AQA/Edexcel/OCR) |  |  |
+| [The changing economic world: development and Nigeria](https://lessicon.com/s/71d376a6215e?src=github&c=gcse-changing-economic-world) | AQA GCSE Geography Paper 2 (The changing economic world) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Tropical storms](https://lessicon.com/s/2702c4744048?src=github&c=gcse-tropical-storms) | AQA GCSE Geography Paper 1 (The challenge of natural hazards: weather hazards) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Urban issues and challenges](https://lessicon.com/s/4a8c059d1e8c?src=github&c=gcse-urban-issues) | AQA GCSE Geography Paper 2 (Urban issues and challenges) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 
@@ -279,6 +282,12 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [The electromagnetic spectrum](https://lessicon.com/library/gcse-physics/the-electromagnetic-spectrum?src=github&c=gcse-electromagnetic-spectrum) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Waves](https://lessicon.com/s/7513ec3af6ea?src=github&c=gcse-waves) | GCSE (AQA/Edexcel/OCR) |  |  |
 
+### GCSE Physics and Combined Science
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Physics required practicals](https://lessicon.com/s/2b8f4902b0e8?src=github&c=gcse-required-practicals-physics) | AQA GCSE Physics 8463 / Combined Science Trilogy 8464 required practicals | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+
 ### GCSE Religious Studies
 
 | Topic | Exam / board | When | Built from |
@@ -286,6 +295,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Christian beliefs and teachings](https://lessicon.com/s/3897464b937d?src=github&c=gcse-christian-beliefs) | AQA GCSE Religious Studies A, Paper 1 (Christianity: beliefs and teachings) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Christian practices](https://lessicon.com/s/041f718f2ae9?src=github&c=gcse-christian-practices) | AQA GCSE Religious Studies A, Paper 1 (Christianity: practices) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Islam: key beliefs](https://lessicon.com/s/0bbcb5db95a1?src=github&c=gcse-muslim-beliefs) | AQA GCSE Religious Studies A, Paper 1 (Islam: beliefs and teachings) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
+| [Islam: practices](https://lessicon.com/s/eeb551c09be2?src=github&c=gcse-muslim-practices) | AQA GCSE Religious Studies A, Paper 1 (Islam: practices) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Relationships and families](https://lessicon.com/s/e33b88a03bb4?src=github&c=gcse-rs-relationships) | AQA GCSE Religious Studies A, Paper 2 (Theme A: Relationships and families) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 | [Religion, peace and conflict](https://lessicon.com/s/05ef3934ae32?src=github&c=gcse-rs-peace-conflict) | AQA GCSE Religious Studies A, Paper 2 (Theme D: Religion, peace and conflict) | UK Year 11 mocks, Nov 16-Dec 11 2026 |  |
 
@@ -313,14 +323,18 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Binomial expansion](https://lessicon.com/s/8566525c5ed2?src=github&c=a-level-maths-binomial-expansion) | A-level Maths Pure: binomial expansion, Year 1 and Year 2 (Edexcel 9MA0, AQA 7357, OCR H240) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 | [Chain, product and quotient rules](https://lessicon.com/s/380771ab173f?src=github&c=a-level-maths-differentiation) | A-level Maths Pure (Year 2 differentiation: Edexcel 9MA0, AQA 7357, OCR H240) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
+| [Integration by parts and substitution](https://lessicon.com/s/d16d3227232c?src=github&c=a-level-maths-integration) | A-level Maths Pure Year 2 integration (Edexcel 9MA0, AQA 7357, OCR H240) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 
 ### A-level Physics
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Circular motion](https://lessicon.com/s/0e633f58f88a?src=github&c=a-level-physics-circular-motion) | A-level Physics Paper 2 (AQA 7408 Further mechanics: circular motion) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
+| [Gravitational fields](https://lessicon.com/s/a00c2d74c996?src=github&c=a-level-physics-gravitational-fi) | A-level Physics Paper 2 (AQA 7408 Fields: gravitational fields) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 | [Simple harmonic motion](https://lessicon.com/s/3f69f12060e3?src=github&c=a-level-physics-shm) | A-level Physics Paper 2 (AQA 7408 Further mechanics: SHM) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
+| [Thermal physics and ideal gases](https://lessicon.com/s/ea08c7c20463?src=github&c=a-level-physics-ideal-gases) | A-level Physics Paper 2 (AQA 7408 Thermal physics) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 
 ### A-level Psychology
 
@@ -426,6 +440,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Congress, the presidency and the bureaucracy](https://lessicon.com/s/a78e59d40b12?src=github&c=ap-gov-congress-presidency) | AP US Government and Politics Unit 2 test (Interactions Among Branches) | US AP Gov Unit 2 tests, Nov to Dec 2026 |  |
 | [Required Supreme Court cases](https://lessicon.com/s/fdfe3210f71a?src=github&c=ap-gov-supreme-court-cases) | AP US Government and Politics: required Supreme Court cases (Units 1-3, FRQ 3) | US AP Gov Unit 2-3 tests, Nov to Dec 2026 |  |
 
 ### AP US History
@@ -494,6 +509,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [DNA replication](https://lessicon.com/s/f931b43cda9c?src=github&c=uni-bio-dna-replication) | University Introductory Biology exam / final | US college intro biology exams and finals, Nov 16–Dec 18 2026 |  |
+| [Mendelian genetics and pedigrees](https://lessicon.com/s/69446290cdf6?src=github&c=uni-bio-mendelian-genetics) | University Introductory Biology exam / final | US college intro biology exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Calculus I
 
@@ -501,6 +517,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [L'Hôpital's rule](https://lessicon.com/s/ee65a557c462?src=github&c=uni-calc-lhopital) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Optimization problems](https://lessicon.com/s/3ecde42815b3?src=github&c=uni-calc-optimization) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Riemann sums and the definite integral](https://lessicon.com/s/8c724104b5d3?src=github&c=uni-calc-riemann-sums) | University Calculus I midterm / final | US college Calculus I exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University General Chemistry
 
@@ -509,6 +526,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Hybrid orbitals and bonding theories](https://lessicon.com/s/f89375bd2a4c?src=github&c=yt-profdave-hybridization) | University General Chemistry I exams and finals (bonding theories) | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 | [Valence Bond Theory, Hybrid Orbitals, and Molecular Orbital Theory](https://www.youtube.com/watch?v=nTujP4jCbsg) by Professor Dave Explains |
 | [Quantum numbers and electron configuration](https://lessicon.com/s/fdebb54f4d73?src=github&c=uni-genchem-electron-config) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Stoichiometry and limiting reagents](https://lessicon.com/s/db26c0b9cd7f?src=github&c=uni-genchem-stoichiometry) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Thermochemistry and calorimetry](https://lessicon.com/s/46770154112b?src=github&c=uni-genchem-thermochemistry) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 | [VSEPR theory and molecular shapes](https://lessicon.com/s/2badeea935a5?src=github&c=uni-genchem-vsepr) | University General Chemistry I midterm / final | US college General Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Intro Psychology
@@ -528,15 +546,31 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
+| [Addition reactions of alkenes](https://lessicon.com/s/13aa1fd95745?src=github&c=uni-orgo-alkene-addition) | University Organic Chemistry I midterm / final | US college Organic Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 | [E1 and E2 elimination reactions](https://lessicon.com/s/9492478c2877?src=github&c=uni-orgo-e1-e2) | University Organic Chemistry I midterm / final | US college Organic Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
+| [IUPAC naming of organic compounds](https://lessicon.com/s/71d5275ab1d1?src=github&c=uni-orgo-nomenclature) | University Organic Chemistry I midterm / final | US college Organic Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
+| [Resonance and acidity](https://lessicon.com/s/dd0b694ac501?src=github&c=uni-orgo-acidity-resonance) | University Organic Chemistry I midterm / final | US college Organic Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 | [SN1 and SN2 reactions](https://lessicon.com/s/82436a11ac26?src=github&c=uni-orgo-sn1-sn2) | University Organic Chemistry I midterm / final | US college Organic Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
 | [Stereochemistry: chirality and R/S](https://lessicon.com/s/30fb96f10ecd?src=github&c=uni-orgo-stereochemistry) | University Organic Chemistry I midterm / final | US college Organic Chemistry I exams and finals, Nov 16–Dec 18 2026 |  |
+
+### University Physics
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Coulomb's law and electric force](https://lessicon.com/s/536d7e977fca?src=github&c=yt-orgchemtutor-coulombs-law) | University Physics II (electricity and magnetism) exams and finals; also AP Physics 2 / A-level electric fields | US college Physics II finals, Dec 2026 | [Coulomb's Law - Net Electric Force & Point Charges](https://www.youtube.com/watch?v=kCp5yYjo9zE) by The Organic Chemistry Tutor |
+
+### University Physics I
+
+| Topic | Exam / board | When | Built from |
+|---|---|---|---|
+| [Momentum and collisions](https://lessicon.com/s/76053ebaf2dc?src=github&c=uni-physics-momentum) | University Physics I midterm / final | US college Physics I exams and finals, Nov 16–Dec 18 2026 |  |
 
 ### University Statistics
 
 | Topic | Exam / board | When | Built from |
 |---|---|---|---|
 | [Confidence intervals](https://lessicon.com/s/758c5c8ff103?src=github&c=uni-stats-confidence-intervals) | University Introductory Statistics midterm / final | US college intro statistics exams and finals, Nov 16–Dec 18 2026 |  |
+| [The normal distribution and z-scores](https://lessicon.com/s/b45bf8c257d7?src=github&c=uni-stats-normal-z-scores) | University Introductory Statistics midterm / final | US college intro statistics exams and finals, Nov 16–Dec 18 2026 |  |
 
 ## About
 
