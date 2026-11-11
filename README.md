@@ -1,6 +1,6 @@
 # Free exam revision sites: GCSE, A-level, AP, SAT, IB, NCEA and first-year university
 
-256 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
+263 free, fact-checked study sites, one per exam topic, built with [Lessicon](https://lessicon.com/?src=github&c=readme) by Aboud, a student.
 
 Each link opens a whole study website for that topic: short explanations, flashcards, a quiz and a concept map. Every card and quiz answer was checked against the source notes before the site was listed. Nothing to install and no account needed to study from them.
 
@@ -9,20 +9,20 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 ## Exams coming up
 
 - NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session)
-- NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 3 sites
-- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 74 sites
-- UK Year 13 A-level mocks and autumn tests: November to December 2026: 11 sites
+- UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 78 sites
+- UK Year 13 A-level mocks and autumn tests: November to December 2026: 14 sites
 - US AP unit tests: November to early December 2026: 32 sites
 - US college first-year midterms and finals: Nov 16 to Dec 18 2026: 26 sites
 - IB Diploma: May 2027 session (the Nov 2026 session ends 13 Nov): 2 sites
@@ -30,8 +30,8 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 ## Contents
 
 - [NCEA (New Zealand)](#ncea-new-zealand) (24)
-- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (129)
-- [A-level](#a-level) (18)
+- [GCSE (AQA, Edexcel, OCR)](#gcse-aqa-edexcel-ocr) (133)
+- [A-level](#a-level) (21)
 - [AP (College Board)](#ap-college-board) (51)
 - [SAT](#sat) (5)
 - [IB Diploma](#ib-diploma) (3)
@@ -156,6 +156,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Exothermic and endothermic reactions](https://lessicon.com/library/gcse-chemistry/exothermic-and-endothermic-reactions?src=github&c=gcse-energy-changes) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Ionic bonding](https://lessicon.com/library/gcse-chemistry/ionic-bonding?src=github&c=gcse-ionic-bonding) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Moles and quantitative chemistry](https://lessicon.com/library/gcse-chemistry/moles-and-quantitative-chemistry?src=github&c=gcse-moles) | GCSE (AQA/Edexcel/OCR) |  |  |
+| [Organic chemistry: alkenes, alcohols and polymers](https://lessicon.com/s/53d44f37a757?src=github&c=gcse-organic-chemistry) | GCSE Chemistry Paper 2 (AQA 8462 Organic chemistry: alkenes, alcohols, carboxylic acids, polymers) | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Rates of reaction](https://lessicon.com/library/gcse-chemistry/rates-of-reaction?src=github&c=gcse-rates-of-reaction) | GCSE (AQA/Edexcel/OCR) |  |  |
 | [Reactions of acids and neutralisation](https://lessicon.com/s/5dd961c5f3cc?src=github&c=yt-cognito-neutralisation) | GCSE Chemistry Paper 1 (chemical changes: acids, salts, neutralisation) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Chemistry - Neutralisation Reactions / Reactions of Acids (2027/28 exams)](https://www.youtube.com/watch?v=vcxlISVJ6Os) by Cognito |
 | [Strong and weak acids](https://lessicon.com/s/1b91b1e8b035?src=github&c=yt-freesciencelessons-strong-wea) | GCSE Chemistry Paper 1 (chemical changes: strong and weak acids, Higher) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Chemistry Revision "Strong and Weak Acids"](https://www.youtube.com/watch?v=4pIHhXfGZlE) by Freesciencelessons |
@@ -255,11 +256,14 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Bearings](https://lessicon.com/s/3d8a3ee32858?src=github&c=yt-cognito-bearings) | GCSE Maths (bearings: both tiers; with trigonometry: Higher) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [GCSE Maths - What are Bearings? (2026/27 exams)](https://www.youtube.com/watch?v=pm8i-thxvCo) by Cognito |
 | [Circle theorems](https://lessicon.com/s/ce7936280193?src=github&c=yt-corbettmaths-circle-theorems) | GCSE Maths Higher tier (geometry: circle theorems) | UK Year 11 mocks, mid-Nov to mid-Dec 2026 | [Circle Theorems - Corbettmaths](https://www.youtube.com/watch?v=vgMSLsos7Ew) by corbettmaths |
 | [Expanding and factorising](https://lessicon.com/s/376e34b9b5a0?src=github&c=gcse-expanding-factorising) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) algebra | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+| [Histograms and cumulative frequency](https://lessicon.com/s/7ae1857ba47c?src=github&c=gcse-histograms-cumulative-frequ) | GCSE Maths Higher (AQA 8300, Edexcel 1MA1, OCR J560) statistics | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Indices and surds](https://lessicon.com/s/bce8b16194cd?src=github&c=gcse-indices-surds) | GCSE Maths Higher (AQA 8300, Edexcel 1MA1, OCR J560) number | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+| [Inequalities](https://lessicon.com/s/3bf36a65aeff?src=github&c=gcse-inequalities) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) algebra: inequalities | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Probability](https://lessicon.com/library/gcse-maths/probability?src=github&c=gcse-probability) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Pythagoras' theorem](https://lessicon.com/s/f6bfa5e92bd9?src=github&c=gcse-pythagoras) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Quadratic equations](https://lessicon.com/library/gcse-maths/quadratic-equations?src=github&c=gcse-quadratic-equations) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Ratio and proportion](https://lessicon.com/s/7b845e9622fe?src=github&c=gcse-ratio-proportion) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) ratio and proportion | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
+| [Sequences and the nth term](https://lessicon.com/s/1c041b806010?src=github&c=gcse-sequences-nth-term) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) algebra: sequences | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Simultaneous equations](https://lessicon.com/s/93fb71d3ef76?src=github&c=gcse-simultaneous-equations) | GCSE Maths (AQA/Edexcel/OCR) |  |  |
 | [Straight-line graphs: y = mx + c](https://lessicon.com/s/45df865f04a5?src=github&c=gcse-straight-line-graphs) | GCSE Maths (AQA 8300, Edexcel 1MA1, OCR J560) graphs | UK Year 11 mocks, Nov 16–Dec 4 2026 |  |
 | [Trigonometry: SOHCAHTOA](https://lessicon.com/library/gcse-maths/trigonometry-sohcahtoa?src=github&c=gcse-trigonometry-sohcahtoa) | GCSE (AQA/Edexcel/OCR) |  |  |
@@ -308,6 +312,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Biological molecules](https://lessicon.com/s/983e60226209?src=github&c=yt-amoebasisters-biomolecules) | A-level Biology: biological molecules (AQA topic 1 / OCR module 2) | UK Year 12 first-topic tests and Year 13 mocks, Nov 2026–Jan 2027 | [Biomolecules (Updated 2023)](https://www.youtube.com/watch?v=1Dx7LDwINLU) by Amoeba Sisters |
 | [Inheritance and the chi-squared test](https://lessicon.com/s/5b14137229bc?src=github&c=a-level-bio-chi-squared) | A-level Biology Paper 2/3 (AQA 7402 Inheritance, chi-squared) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 | [Nerve impulses and the action potential](https://lessicon.com/library/a-level-biology/nerve-impulses-and-the-action-potential?src=github&c=action-potential) | A-level Biology / uni A&P |  |  |
+| [Populations and evolution](https://lessicon.com/s/b75f02ff0d79?src=github&c=a-level-bio-populations-evolutio) | A-level Biology Paper 2 (AQA 7402 Populations and evolution) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 | [Protein synthesis](https://lessicon.com/s/fd39ebd9efba?src=github&c=protein-synthesis) | A-level / AP Biology |  |  |
 
 ### A-level Chemistry
@@ -317,6 +322,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 | [Acids, bases and pH](https://lessicon.com/s/c51ff45f9838?src=github&c=a-level-chem-acids-ph) | A-level Chemistry Paper 1 (AQA 7405 Acids and bases) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 | [Enthalpy and Hess's law](https://lessicon.com/s/3df0a711eea5?src=github&c=a-level-chem-enthalpy-hess) | A-level (AQA/OCR/Edexcel) |  |  |
 | [Equilibrium and Le Chatelier's principle](https://lessicon.com/library/a-level-chemistry/equilibrium-and-le-chateliers-principle?src=github&c=le-chateliers-principle) | A-level (AQA/OCR/Edexcel) |  |  |
+| [Equilibrium constant Kc](https://lessicon.com/s/edbf7b25510f?src=github&c=a-level-chem-kc) | A-level Chemistry Paper 1 (AQA 7405 Equilibrium constant Kc; Kp) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 | [Rate equations](https://lessicon.com/s/1db40b525ae6?src=github&c=a-level-chem-rate-equations) | A-level Chemistry Paper 1/3 (AQA 7405 Kinetics: rate equations) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 
 ### A-level Maths
@@ -325,6 +331,7 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 |---|---|---|---|
 | [Binomial expansion](https://lessicon.com/s/8566525c5ed2?src=github&c=a-level-maths-binomial-expansion) | A-level Maths Pure: binomial expansion, Year 1 and Year 2 (Edexcel 9MA0, AQA 7357, OCR H240) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 | [Chain, product and quotient rules](https://lessicon.com/s/380771ab173f?src=github&c=a-level-maths-differentiation) | A-level Maths Pure (Year 2 differentiation: Edexcel 9MA0, AQA 7357, OCR H240) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
+| [Hypothesis testing](https://lessicon.com/s/805b177f2f69?src=github&c=a-level-maths-hypothesis-testing) | A-level Maths Statistics: hypothesis testing (Edexcel 9MA0 Paper 3, AQA 7357, OCR H240) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 | [Integration by parts and substitution](https://lessicon.com/s/d16d3227232c?src=github&c=a-level-maths-integration) | A-level Maths Pure Year 2 integration (Edexcel 9MA0, AQA 7357, OCR H240) | UK Year 13 autumn tests and mocks, Nov–Dec 2026 |  |
 
 ### A-level Physics
