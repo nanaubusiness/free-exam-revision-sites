@@ -10,21 +10,21 @@ Got your own notes or your teacher's slides? [Turn them into a study site like t
 
 - NCEA 2026 exam period, 10 Nov–4 Dec 2026 (check NZQA for the English session)
 - NCEA Level 3 History exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Calculus exam, Mon 16 Nov 2026 9:30am (NZQA timetable)
+- NCEA Level 2 Chemistry exam, Mon 16 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Biology exam, Tue 17 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Physics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Economics exam, Wed 18 Nov 2026 2:00pm (NZQA timetable)
+- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 (NZQA timetable)
 - NCEA Level 1 Chemistry and Biology exam, Thu 19 Nov 2026 2:00pm (NZQA timetable)
-- NCEA Level 2 Mathematics and Statistics exam, Thu 19 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 2 Biology exam, Fri 20 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 3 Chemistry exam, Fri 20 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 3 Statistics exam, Tue 24 Nov 2026 9:30am (NZQA timetable)
 - NCEA Level 1 Science exam, Wed 25 Nov 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Economics exam, Fri 27 Nov 2026 9:30am (NZQA timetable)
-- NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable)
 - NCEA Level 2 Earth and Space Science exam, Tue 1 Dec 2026 9:30am (NZQA timetable)
+- NCEA Level 3 Earth and Space Science exam, Wed 2 Dec 2026 2:00pm (NZQA timetable)
 - SAT: Sat 5 Dec 2026 (registration deadline 20 Nov): 5 sites
 - UK Year 11 GCSE mocks: mid-November to mid-December 2026, school by school: 79 sites
 - UK Year 13 A-level mocks and autumn tests: November to December 2026: 14 sites
